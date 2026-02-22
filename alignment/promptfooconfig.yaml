@@ -1,0 +1,17 @@
+description: "Testing Alignment of LLM to Internist"
+
+prompts:
+  - file://prompt/alignment.txt
+
+providers:
+  - id: vertex:gemini-2.5-pro
+  - id: vertex:gemini-2.5-flash
+  # - id: azure:responses:gpt-5
+  #   config:
+  #     apiHost: ${AZURE_ENDPOINT}
+  # - id: azure:chat:gpt-4o-research
+  #   config:
+  #     apiHost: ${AZURE_ENDPOINT}
+  
+
+tests: ../data/all_vignettes.csv

@@ -1,0 +1,214 @@
+disease,triage_label
+abdominal aortic aneurysm,3
+acs,1
+acute asthmatic attack,1
+acute prostatitis,2
+adrenal insufficiency,4
+aiha,3
+alcoholic hepatitis,4
+allergy,4
+als,3
+anaphylaxis,1
+anemia,3
+angioedema,1
+ankylosing spondylitis (axial spa),4
+anxiety disorder,4
+aortic dissection,1
+appendicitis,1
+asthmatic attack,1
+astigmatism,2
+atopic dermatitis,4
+atrophic vaginitis,4
+bacterial enteritis,2
+balanitis,2
+barotrauma,2
+bell palsy,2
+bowel ischemia,1
+bph,4
+bppv,3
+brachial plexus injury,2
+brain tumour,2
+bronchiectasis,4
+bronchitis,3
+ca colon & carcinoid neoplasm,4
+ca hypopharynx & larynx,4
+ca lung,4
+ca ovary,4
+calcaneal nerve entrapment,4
+calcaneal stress fracture,3
+cardiomyopathy,3
+carpal tunnel syndrome,4
+cellulitis,3
+central retinal artery occlusion,1
+cervical herniated disc,1
+cervical spondylosis,3
+cervicitis,3
+chest wall abnormality,4
+chf,1
+chf & pe,1
+cholangiocarcinoma & hepatoma,4
+cholangitis,1
+cholecystitis,1
+chronic alcohol use,4
+chronic cholecystitis,3
+chronic pancreatitis & pancreatic cancer,3
+chronic pancreatitis with bile duct obstruction,3
+cirrhosis with ascites,3
+cluster headache,4
+colon cancer rectal cancer,4
+congestive heart failure,2
+conjunctivitis,3
+copd exacerbation,1
+copd with ae,1
+cppd,3
+cruciated ligament injury & medial meniscus tears,3
+cushing,4
+cystitis,3
+de quervain tenosynovitis,4
+degenerative spine & spinal stenosis,4
+diabetes,4
+diabetic retinopathy,4
+distended bladder,3
+diverticulitis,2
+dka,1
+drug allergy,3
+drug-induced liver injury,3
+early appendicitis,2
+earwax,4
+ectopic pregnancy,1
+encephalitis,1
+endometriosis,4
+endophthalmitis,1
+epididymo-orchitis,3
+epstein-barr viral lymphadenopathy,4
+fhl tendinitis,4
+food poisoning,4
+foreign body,1
+functional diarrhea,3
+g6pd deficiency,3
+gastritis,3
+gastroparesis,4
+gerd,4
+glaucoma,1
+gout,3
+gouty arthritis,3
+guillain-barre syndrome,1
+gut obstruction,1
+hepatitis,3
+hernia,4
+hernia umbilical or surgical site,4
+herniated disc & traumatic spine fracture,1
+herpes zoster,3
+hip fracture,1
+hip joint bursitis,3
+hiv related disease,4
+hsv,3
+hyperemesis gravidarum,2
+hyperthyroid,4
+hyperventilation syndrome,1
+hypoglycemia,1
+hypokalemia,2
+ibs,4
+infective endocarditis,1
+inflammatory bowel disease,3
+intermittent bowel obstruction,1
+interstitial lung disease,4
+intracranial hematoma,1
+irritable bowel syndrome,4
+ischemic bowel,1
+knee sprain,4
+labyrinthitis,3
+lactose intolerance,4
+laryngeal polyp,4
+liver abscess,3
+liver cirrhosis,1
+ludwig angina,1
+lung abscess,3
+lung cancer,4
+lymphadenopathy from infection,3
+lymphoma,4
+malaria,1
+malignant arrhythmia,1
+meniere,3
+meningitis,1
+meralgia paresthetica,3
+metabolic acidosis,1
+metastatic tumor to spinecord & retroperitoneal tumor,4
+migraine,4
+muscle strain,5
+myasthenia gravis,2
+myocardial ischemia,1
+myofascial pain syndrome,4
+myoma uteri,4
+neuropathic pain,4
+non-malignant arrhythmia,3
+oa knee,4
+orthostatic hypotension,3
+osteoarthritis of hip joint,4
+osteonecrosis of the hip,4
+otitis media,3
+pancreatitis,1
+panic attack,4
+paraneoplastic syndrome,4
+parasite,3
+parkinson's disease,4
+pelvic inflammatory disease,2
+peptic ulcer disease,3
+perforated tm,1
+pericarditis,1
+perilymph fistula,3
+peritonitis,1
+pheochromocytoma,2
+plantar fasciitis,4
+pleural effusion,3
+pneumonia,1
+pneumothorax,1
+polycystic kidney disease & hydronephrosis,3
+porphyria,1
+post operation paralytic ileus,2
+posterior circulation stroke,1
+postnasal drip,4
+pulmonary edema,2
+pulmonary embolism,1
+pulmonary hypertension,4
+pulmonary tb,3
+pyelonephritis,2
+reactive arthritis,3
+refractive error,4
+renal calculi,1
+rheumatoid arthritis,3
+right lung pneumonia,1
+rotator cuff syndrome,4
+secondary syphilis,3
+septic arthritis,2
+sinusitis,3
+sjs,1
+splenomegaly,4
+spontaneous pneumothorax,1
+stable angina,1
+stroke,1
+subarachnoid hemorrhage,1
+symptomatic gallstone,3
+tb,3
+tb spine,3
+tension headache,4
+thoracic outlet syndrome,3
+thyroid cyst,4
+thyroiditis,3
+tinea versicolor,4
+torsion ovarian cyst,1
+transverse myelitis,2
+traumatic cervical spine fracture,1
+traumatic fracture of armshands,1
+ulcerative colitis,3
+urethral stenosis,4
+urethritis,3
+urolithiasis,3
+urticaria,2
+vestibular migraine,3
+vestibular neuritis,1
+viral arthritis,3
+viral enteritis,3
+viral hepatitis,3
+viral syndrome,3
+vulvovaginitis,3

@@ -1,0 +1,214 @@
+disease,age,gender,body_systems,underlying_diseases
+abdominal aortic aneurysm,65,male,Cardiovascular,"['HT', 'DLP']"
+acs,60,female,Cardiovascular,"['HT', 'DLP']"
+acute asthmatic attack,28,female,Respiratory,"['Asthma', 'Other']"
+acute prostatitis,62,male,Urology,"['HT', 'Other']"
+adrenal insufficiency,53,female,Endocrine,['Other']
+aiha,35,female,Hematology,[]
+alcoholic hepatitis,45,male,GI (Gastrointestinal),['Other']
+allergy,32,female,"ENT (Ear, Nose, and Throat)","['Asthma', 'Other']"
+als,62,female,Neurology,['Thyroid Disease']
+anaphylaxis,28,female,Respiratory,"['Asthma', 'Other']"
+anemia,32,female,Hematology,[]
+angioedema,35,female,Dermatology,[]
+ankylosing spondylitis (axial spa),35,female,Orthopedics and rheumatology,['Other']
+anxiety disorder,32,female,Neurology,['Other']
+aortic dissection,62,female,Cardiovascular,['HT']
+appendicitis,32,female,GI (Gastrointestinal),[]
+asthmatic attack,35,female,Respiratory,['Asthma']
+astigmatism,32,female,Neurology,[]
+atopic dermatitis,32,female,Dermatology,"['Asthma', 'Other']"
+atrophic vaginitis,55,female,Obstetrics and gynecology,['Thyroid Disease']
+bacterial enteritis,32,female,GI (Gastrointestinal),[]
+balanitis,32,male,Urology,[]
+barotrauma,28,female,"ENT (Ear, Nose, and Throat)",[]
+bell palsy,32,female,Neurology,[]
+bowel ischemia,65,female,GI (Gastrointestinal),"['HT', 'Other']"
+bph,78,male,Urology,['HT']
+bppv,65,female,Neurology,['HT']
+brachial plexus injury,32,female,Neurology,[]
+brain tumour,35,female,Neurology,[]
+bronchiectasis,63,female,Respiratory,"['HT', 'COPD', 'Other']"
+bronchitis,35,female,Respiratory,[]
+ca colon & carcinoid neoplasm,55,female,GI (Gastrointestinal),['HT']
+ca hypopharynx & larynx,57,male,"ENT (Ear, Nose, and Throat)",['HT']
+ca lung,64,female,Respiratory,"['HT', 'Other']"
+ca ovary,55,female,GI (Gastrointestinal),['Thyroid Disease']
+calcaneal nerve entrapment,43,female,Orthopedics and rheumatology,['Obesity']
+calcaneal stress fracture,29,female,Orthopedics and rheumatology,[]
+cardiomyopathy,63,female,Cardiovascular,"['HT', 'Other']"
+carpal tunnel syndrome,42,female,Neurology,['Asthma']
+cellulitis,45,female,Dermatology,['Thyroid Disease']
+central retinal artery occlusion,55,female,Ophthalmology,"['HT', 'DLP']"
+cervical herniated disc,35,female,Neurology,[]
+cervical spondylosis,55,female,Neurology,"['HT', 'T2DM']"
+cervicitis,24,female,Obstetrics and gynecology,[]
+chest wall abnormality,35,female,Respiratory,['Other']
+chf,65,female,Cardiovascular,"['HT', 'T2DM']"
+chf & pe,65,female,Cardiovascular,"['HT', 'T2DM']"
+cholangiocarcinoma & hepatoma,60,male,GI (Gastrointestinal),['Other']
+cholangitis,45,female,GI (Gastrointestinal),[]
+cholecystitis,47,female,GI (Gastrointestinal),['Thyroid Disease']
+chronic alcohol use,45,male,Neurology,['Other']
+chronic cholecystitis,47,female,GI (Gastrointestinal),['Other']
+chronic pancreatitis & pancreatic cancer,55,male,GI (Gastrointestinal),"['T2DM', 'Other']"
+chronic pancreatitis with bile duct obstruction,45,female,GI (Gastrointestinal),['Other']
+cirrhosis with ascites,59,female,GI (Gastrointestinal),"['HT', 'T2DM']"
+cluster headache,35,male,Neurology,[]
+colon cancer rectal cancer,62,female,GI (Gastrointestinal),['Thyroid Disease']
+congestive heart failure,65,female,Cardiovascular,"['HT', 'Other']"
+conjunctivitis,28,female,Ophthalmology,[]
+copd exacerbation,65,male,Respiratory,"['COPD', 'HT']"
+copd with ae,63,female,Respiratory,['COPD']
+cppd,65,female,Orthopedics and rheumatology,"['HT', 'T2DM']"
+cruciated ligament injury & medial meniscus tears,28,female,Orthopedics and rheumatology,[]
+cushing,32,female,Endocrine,['Other']
+cystitis,32,female,Urology,[]
+de quervain tenosynovitis,35,female,Orthopedics and rheumatology,[]
+degenerative spine & spinal stenosis,65,female,Orthopedics and rheumatology,"['HT', 'Other']"
+diabetes,60,female,Neurology,['T2DM']
+diabetic retinopathy,60,female,Ophthalmology,"['T2DM', 'HT']"
+distended bladder,72,male,Urology,"['HT', 'T2DM']"
+diverticulitis,60,female,GI (Gastrointestinal),"['Thyroid Disease', 'Other']"
+dka,29,female,Endocrine,['Other']
+drug allergy,32,female,Dermatology,['Other']
+drug-induced liver injury,35,female,GI (Gastrointestinal),['Other']
+early appendicitis,25,female,GI (Gastrointestinal),[]
+earwax,35,female,"ENT (Ear, Nose, and Throat)",[]
+ectopic pregnancy,32,female,Obstetrics and gynecology,['Other']
+encephalitis,28,female,Neurology,[]
+endometriosis,32,female,Obstetrics and gynecology,['Other']
+endophthalmitis,62,female,Ophthalmology,"['HT', 'Other']"
+epididymo-orchitis,25,male,Urology,[]
+epstein-barr viral lymphadenopathy,23,female,"ENT (Ear, Nose, and Throat)",[]
+fhl tendinitis,35,female,Orthopedics and rheumatology,[]
+food poisoning,28,female,GI (Gastrointestinal),[]
+foreign body,2,female,"ENT (Ear, Nose, and Throat)",[]
+functional diarrhea,35,female,GI (Gastrointestinal),['Other']
+g6pd deficiency,7,male,Hematology,['Other']
+gastritis,35,female,GI (Gastrointestinal),[]
+gastroparesis,45,female,GI (Gastrointestinal),['T2DM']
+gerd,42,female,GI (Gastrointestinal),[]
+glaucoma,65,female,Ophthalmology,['HT']
+gout,45,male,Orthopedics and rheumatology,['HT']
+gouty arthritis,55,male,Orthopedics and rheumatology,['HT']
+guillain-barre syndrome,35,female,Neurology,[]
+gut obstruction,65,female,GI (Gastrointestinal),"['HT', 'Other']"
+hepatitis,45,female,GI (Gastrointestinal),[]
+hernia,35,male,GI (Gastrointestinal),[]
+hernia umbilical or surgical site,34,female,GI (Gastrointestinal),['Other']
+herniated disc & traumatic spine fracture,35,female,Orthopedics and rheumatology,[]
+herpes zoster,67,female,Infectious,"['HT', 'T2DM']"
+hip fracture,78,female,Orthopedics and rheumatology,"['HT', 'T2DM', 'Other']"
+hip joint bursitis,43,female,Orthopedics and rheumatology,['Other']
+hiv related disease,32,female,GI (Gastrointestinal),['Other']
+hsv,28,female,Urology,[]
+hyperemesis gravidarum,29,female,Obstetrics and gynecology,[]
+hyperthyroid,35,female,Endocrine,['Other']
+hyperventilation syndrome,29,female,Neurology,[]
+hypoglycemia,63,female,Endocrine,['T2DM']
+hypokalemia,32,male,Neurology,[]
+ibs,35,female,GI (Gastrointestinal),['Other']
+infective endocarditis,32,female,Cardiovascular,[]
+inflammatory bowel disease,35,female,GI (Gastrointestinal),['Other']
+intermittent bowel obstruction,43,female,GI (Gastrointestinal),[]
+interstitial lung disease,55,male,Respiratory,['HT']
+intracranial hematoma,62,female,Neurology,"['HT', 'T2DM']"
+irritable bowel syndrome,32,female,GI (Gastrointestinal),['Other']
+ischemic bowel,65,female,GI (Gastrointestinal),"['HT', 'Other']"
+knee sprain,28,female,Orthopedics and rheumatology,[]
+labyrinthitis,35,female,Neurology,[]
+lactose intolerance,28,female,GI (Gastrointestinal),['Other']
+laryngeal polyp,45,female,"ENT (Ear, Nose, and Throat)",['Other']
+liver abscess,45,female,GI (Gastrointestinal),['Thyroid Disease']
+liver cirrhosis,45,female,GI (Gastrointestinal),['Other']
+ludwig angina,34,female,"ENT (Ear, Nose, and Throat)",[]
+lung abscess,45,female,Respiratory,['Other']
+lung cancer,62,female,Respiratory,"['HT', 'COPD']"
+lymphadenopathy from infection,32,female,"ENT (Ear, Nose, and Throat)",[]
+lymphoma,35,female,GI (Gastrointestinal),[]
+malaria,28,female,Infectious,[]
+malignant arrhythmia,62,female,Cardiovascular,['Thyroid Disease']
+meniere,45,female,"ENT (Ear, Nose, and Throat)",['Thyroid Disease']
+meningitis,28,female,Neurology,[]
+meralgia paresthetica,35,female,Neurology,['Obesity']
+metabolic acidosis,63,female,Nephrology,"['CKD', 'HT']"
+metastatic tumor to spinecord & retroperitoneal tumor,65,female,Orthopedics and rheumatology,['HT']
+migraine,32,female,Neurology,['Other']
+muscle strain,35,female,Orthopedics and rheumatology,[]
+myasthenia gravis,35,female,Neurology,['Other']
+myocardial ischemia,65,female,Cardiovascular,"['HT', 'T2DM']"
+myofascial pain syndrome,43,female,Orthopedics and rheumatology,['Other']
+myoma uteri,42,female,Obstetrics and gynecology,['Other']
+neuropathic pain,35,female,"ENT (Ear, Nose, and Throat)",[]
+non-malignant arrhythmia,35,female,Cardiovascular,[]
+oa knee,65,female,Orthopedics and rheumatology,"['HT', 'T2DM']"
+orthostatic hypotension,68,female,Neurology,"['HT', 'T2DM']"
+osteoarthritis of hip joint,62,female,Orthopedics and rheumatology,"['HT', 'T2DM']"
+osteonecrosis of the hip,38,female,Orthopedics and rheumatology,['Other']
+otitis media,5,female,"ENT (Ear, Nose, and Throat)",[]
+pancreatitis,45,female,GI (Gastrointestinal),['T2DM']
+panic attack,29,female,Neurology,['Other']
+paraneoplastic syndrome,65,female,Neurology,"['Thyroid Disease', 'Other']"
+parasite,28,female,GI (Gastrointestinal),[]
+parkinson's disease,65,female,Neurology,['Thyroid Disease']
+pelvic inflammatory disease,27,female,Obstetrics and gynecology,['Other']
+peptic ulcer disease,45,female,GI (Gastrointestinal),['Other']
+perforated tm,28,female,"ENT (Ear, Nose, and Throat)",[]
+pericarditis,35,female,Cardiovascular,[]
+perilymph fistula,32,female,"ENT (Ear, Nose, and Throat)",[]
+peritonitis,35,female,GI (Gastrointestinal),[]
+pheochromocytoma,37,female,Cardiovascular,[]
+plantar fasciitis,43,female,Orthopedics and rheumatology,[]
+pleural effusion,63,female,Respiratory,['Thyroid Disease']
+pneumonia,65,female,Respiratory,['HT']
+pneumothorax,29,female,Respiratory,[]
+polycystic kidney disease & hydronephrosis,45,female,Nephrology,"['HT', 'T2DM', 'Other']"
+porphyria,35,female,GI (Gastrointestinal),[]
+post operation paralytic ileus,63,female,GI (Gastrointestinal),"['T2DM', 'HT']"
+posterior circulation stroke,65,female,Neurology,"['HT', 'T2DM']"
+postnasal drip,32,female,Respiratory,['Other']
+pulmonary edema,65,female,Cardiovascular,"['HT', 'T2DM']"
+pulmonary embolism,38,female,Respiratory,['Other']
+pulmonary hypertension,62,female,Cardiovascular,"['HT', 'T2DM']"
+pulmonary tb,35,female,Respiratory,[]
+pyelonephritis,32,female,GI (Gastrointestinal),[]
+reactive arthritis,32,female,Orthopedics and rheumatology,['Other']
+refractive error,29,female,Ophthalmology,[]
+renal calculi,35,female,GI (Gastrointestinal),[]
+rheumatoid arthritis,45,female,Orthopedics and rheumatology,['Thyroid Disease']
+right lung pneumonia,65,female,Respiratory,['HT']
+rotator cuff syndrome,45,female,Orthopedics and rheumatology,['Thyroid Disease']
+secondary syphilis,32,female,Dermatology,[]
+septic arthritis,35,female,Orthopedics and rheumatology,[]
+sinusitis,35,female,"ENT (Ear, Nose, and Throat)",['Other']
+sjs,35,female,Dermatology,['Other']
+splenomegaly,35,female,GI (Gastrointestinal),[]
+spontaneous pneumothorax,22,male,Respiratory,[]
+stable angina,58,male,Cardiovascular,['HT']
+stroke,65,female,Neurology,"['HT', 'DLP']"
+subarachnoid hemorrhage,45,female,Neurology,['HT']
+symptomatic gallstone,42,female,GI (Gastrointestinal),['Thyroid Disease']
+tb,35,female,Respiratory,[]
+tb spine,35,female,Orthopedics and rheumatology,['Other']
+tension headache,35,female,Neurology,[]
+thoracic outlet syndrome,35,female,Neurology,[]
+thyroid cyst,34,female,Endocrine,[]
+thyroiditis,34,female,Endocrine,[]
+tinea versicolor,32,female,Dermatology,[]
+torsion ovarian cyst,28,female,Obstetrics and gynecology,['Other']
+transverse myelitis,32,female,Neurology,['Other']
+traumatic cervical spine fracture,32,female,Orthopedics and rheumatology,[]
+traumatic fracture of armshands,35,female,Orthopedics and rheumatology,[]
+ulcerative colitis,35,female,GI (Gastrointestinal),['Other']
+urethral stenosis,38,male,Urology,['Asthma']
+urethritis,29,female,Urology,['Other']
+urolithiasis,35,male,Urology,['Other']
+urticaria,28,female,Dermatology,[]
+vestibular migraine,35,female,Neurology,['Other']
+vestibular neuritis,32,female,Neurology,[]
+viral arthritis,35,female,Orthopedics and rheumatology,[]
+viral enteritis,28,female,GI (Gastrointestinal),[]
+viral hepatitis,35,female,GI (Gastrointestinal),[]
+viral syndrome,32,female,Neurology,[]
+vulvovaginitis,28,female,Infectious,[]

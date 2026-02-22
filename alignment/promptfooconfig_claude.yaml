@@ -1,0 +1,10 @@
+description: "Testing Alignment of LLM to Internist"
+
+prompts:
+  - file://prompt/alignment.txt
+
+providers:
+  - id: vertex:claude-opus-4-1
+
+  
+tests: ../data/all_vignettes.csv

@@ -1,0 +1,213 @@
+abdominal aortic aneurysm
+acs
+acute asthmatic attack
+acute prostatitis
+adrenal insufficiency
+aiha
+alcoholic hepatitis
+allergy
+als
+anaphylaxis
+anemia
+angioedema
+ankylosing spondylitis (axial spa)
+anxiety disorder
+aortic dissection
+appendicitis
+asthmatic attack
+astigmatism
+atopic dermatitis
+atrophic vaginitis
+bacterial enteritis
+balanitis
+barotrauma
+bell palsy
+bowel ischemia
+bph
+bppv
+brachial plexus injury
+brain tumour
+bronchiectasis
+bronchitis
+ca colon & carcinoid neoplasm
+ca hypopharynx & larynx
+ca lung
+ca ovary
+calcaneal nerve entrapment
+calcaneal stress fracture
+cardiomyopathy
+carpal tunnel syndrome
+cellulitis
+central retinal artery occlusion
+cervical herniated disc
+cervical spondylosis
+cervicitis
+chest wall abnormality
+chf
+chf & pe
+cholangiocarcinoma & hepatoma
+cholangitis
+cholecystitis
+chronic alcohol use
+chronic cholecystitis
+chronic pancreatitis & pancreatic cancer
+chronic pancreatitis with bile duct obstruction
+cirrhosis with ascites
+cluster headache
+colon cancer rectal cancer
+congestive heart failure
+conjunctivitis
+copd exacerbation
+copd with ae
+cppd
+cruciated ligament injury & medial meniscus tears
+cushing
+cystitis
+de quervain tenosynovitis
+degenerative spine & spinal stenosis
+diabetes
+diabetic retinopathy
+distended bladder
+diverticulitis
+dka
+drug allergy
+drug-induced liver injury
+early appendicitis
+earwax
+ectopic pregnancy
+encephalitis
+endometriosis
+endophthalmitis
+epididymo-orchitis
+epstein-barr viral lymphadenopathy
+fhl tendinitis
+food poisoning
+foreign body
+functional diarrhea
+g6pd deficiency
+gastritis
+gastroparesis
+gerd
+glaucoma
+gout
+gouty arthritis
+guillain-barre syndrome
+gut obstruction
+hepatitis
+hernia
+hernia umbilical or surgical site
+herniated disc & traumatic spine fracture
+herpes zoster
+hip fracture
+hip joint bursitis
+hiv related disease
+hsv
+hyperemesis gravidarum
+hyperthyroid
+hyperventilation syndrome
+hypoglycemia
+hypokalemia
+ibs
+infective endocarditis
+inflammatory bowel disease
+intermittent bowel obstruction
+interstitial lung disease
+intracranial hematoma
+irritable bowel syndrome
+ischemic bowel
+knee sprain
+labyrinthitis
+lactose intolerance
+laryngeal polyp
+liver abscess
+liver cirrhosis
+ludwig angina
+lung abscess
+lung cancer
+lymphadenopathy from infection
+lymphoma
+malaria
+malignant arrhythmia
+meniere
+meningitis
+meralgia paresthetica
+metabolic acidosis
+metastatic tumor to spinecord & retroperitoneal tumor
+migraine
+muscle strain
+myasthenia gravis
+myocardial ischemia
+myofascial pain syndrome
+myoma uteri
+neuropathic pain
+non-malignant arrhythmia
+oa knee
+orthostatic hypotension
+osteoarthritis of hip joint
+osteonecrosis of the hip
+otitis media
+pancreatitis
+panic attack
+paraneoplastic syndrome
+parasite
+parkinson's disease
+pelvic inflammatory disease
+peptic ulcer disease
+perforated tm
+pericarditis
+perilymph fistula
+peritonitis
+pheochromocytoma
+plantar fasciitis
+pleural effusion
+pneumonia
+pneumothorax
+polycystic kidney disease & hydronephrosis
+porphyria
+post operation paralytic ileus
+posterior circulation stroke
+postnasal drip
+pulmonary edema
+pulmonary embolism
+pulmonary hypertension
+pulmonary tb
+pyelonephritis
+reactive arthritis
+refractive error
+renal calculi
+rheumatoid arthritis
+right lung pneumonia
+rotator cuff syndrome
+secondary syphilis
+septic arthritis
+sinusitis
+sjs
+splenomegaly
+spontaneous pneumothorax
+stable angina
+stroke
+subarachnoid hemorrhage
+symptomatic gallstone
+tb
+tb spine
+tension headache
+thoracic outlet syndrome
+thyroid cyst
+thyroiditis
+tinea versicolor
+torsion ovarian cyst
+transverse myelitis
+traumatic cervical spine fracture
+traumatic fracture of armshands
+ulcerative colitis
+urethral stenosis
+urethritis
+urolithiasis
+urticaria
+vestibular migraine
+vestibular neuritis
+viral arthritis
+viral enteritis
+viral hepatitis
+viral syndrome
+vulvovaginitis

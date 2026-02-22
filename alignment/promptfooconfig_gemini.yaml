@@ -1,0 +1,9 @@
+description: "Testing Alignment of LLM to Internist"
+
+prompts:
+  - file://prompt/alignment.txt
+
+providers:
+  - id: vertex:gemini-2.5-flash
+
+tests: ../data/all_vignettes.csv

@@ -1,0 +1,4 @@
+.venv
+.env
+alignment/results
+alignment/secret
