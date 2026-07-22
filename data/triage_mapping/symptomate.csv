@@ -1,0 +1,55 @@
+original_triage,intermediate_triage
+scdule the doctor,routine doctor appointment
+consult doctor withing 24 hour,seek medical advice (1 day)
+call an ambulance,call ambulance
+self-care,self care
+urgent / gp,urgent medical service
+consult a doctor within 24 hr,seek medical advice (1 day)
+go to er,emergency medical services
+see doctor immediately,emergency medical services
+see doctor within 24 hours,seek medical advice (1 day)
+see doctor within 24 hr,seek medical advice (1 day)
+emergency care,emergency medical services
+consult a doctor in 24 hours,seek medical advice (1 day)
+urgent / neurologist,urgent medical service
+"schedule an appointment with a doctor. if her symptoms worsen, she should see a doctor immediately.",routine doctor appointment
+go to a&e/er,emergency medical services
+consult a doctor,seek medical advice
+appointment with a doctor,routine doctor appointment
+self-care may be enough,self care
+schedule an appointment with doctor,routine doctor appointment
+see a doctor,seek medical advice
+see a doctor in 24 hours,seek medical advice (1 day)
+schedule an appoinment with a doctor,routine doctor appointment
+go to nearest emergency department,emergency medical services
+consult a doctor within 24 hours,seek medical advice (1 day)
+go to nearest ed,emergency medical services
+schedule an appointment with a doctor,routine doctor appointment
+go to emergency department,emergency medical services
+appointment with  a doctor,routine doctor appointment
+conuslt doctor within 24 hr,seek medical advice (1 day)
+ทำนัดพบแพทย์,routine doctor appointment
+non-urgent gp,routine doctor appointment
+call ambulance,call ambulance
+telephone consultation,telephone consultation
+may required prompt medical evaluation,emergency medical services
+self-treatment,self care
+"schedule an appointment with a doctor. if symptoms worsen, see doctor immediately",routine doctor appointment
+self care maybe enough,self care
+go to the nearest emergency department,emergency medical services
+emergency,emergency medical services
+urgent / gi med,urgent medical service
+consult a doctor within 24 hrs/urologist,seek medical advice (1 day)
+consult a doctor within 24 hrs/pulmonologist,seek medical advice (1 day)
+self care,self care
+consult a doctor / psychiatrist,seek medical advice
+consult doctor within 24 hours,seek medical advice (1 day)
+go to nearest er,emergency medical services
+consult a doctor within 24 hrs,seek medical advice (1 day)
+required emergency care,emergency medical services
+counsult an ophthalmologist as soon as possible,seek medical advice
+make appointment with a doctor,routine doctor appointment
+consult doctor within 24 hr,seek medical advice (1 day)
+see a cardiologist asap,seek medical advice
+home remedies,self care
+may require emergency care,emergency medical services

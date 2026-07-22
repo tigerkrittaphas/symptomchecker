@@ -1,0 +1,53 @@
+original_triage,intermediate_triage
+see a psychiatrist,seek specialist (psychiatrist)
+appointment with rheumatologist,seek specialist (rheumatologist)
+call anbulance,call ambulance
+แนะนำปรึกษานักจิตบำบัด หรือกรมสายด่วนสุขภาพ,seek medical advice
+self-care,self care
+not urgent (recommend endo),seek specialist (endocrinologist)
+พบแพทย์ด่วน,emergency medical care
+make appointment with specialist,seek specialist
+see a doctor asap,emergency medical care
+นัดหมายเพื่อตรวจเพิ่มเติม gi ped,seek specialist (gastroenterologist)
+นัดหมายแพทย์ เพื่อตรวจเพิ่มเติม,routine doctor appointment
+ควรพบแพทย์โดยด่วน,emergency medical care
+emergency / neuromed,emergency medical care
+ควรไปพบแพทย์โดยด่วน,emergency medical care
+สามารถรักษาหายเองได้,self care
+urgent (recommed id med),urgent medical care
+consult doctor for more investigation,seek medical advice
+non-urgent gp,routine medical appointment
+แนะนำนัดหมายแพทย์ดพื่อตรวจเพิ่มเติม,routine medical appointment
+see a doctor,seek medical advice
+see a doctor: id,seek specialist (infectious disease)
+go to er,emergency medical care
+แนะนำนัดหมายแพทย์เพื่อตรวจเพิ่ม,routine medical appointment
+appointment with doctor,routine medical appointment
+นัดหมายแพทย์ตรวจเพิ่มเติม / cardiologist,seek specialist (cardiologist)
+self treatment,self care
+urgent gp,urgent medical care
+self-treatment,self care
+self care,self care
+แนะนำนัดหมายพบแพทย์เพื่อตรวจเพิ่มเติม /ตรวจด่วน,urgent medical care
+see a doctor: ob-gyn,seek specialist (gynecologist)
+self-treament,self care
+แนะนำนัดหมายแพทย์เพื่อตรวจเพิ่มเติม,routine medical appointment
+ควรพบแพทย์โดยด่วน / gi,emergency medical care
+แนะนำนัดหมายแพทย์,routine medical appointment
+call ambulance,call ambulance
+ควรไปพบแพทย์ด่วน,emergency medical care
+นัดหมายแพทย์เพื่อตรวจเพิ่ม,routine doctor appointment
+urgent / ped gi,urgent medical care
+พบแพทย์โดยด่วน,emergency medical care
+emergency ควรพบแพทย์โดยด่วน,emergency medical care
+suggest make appointment with doctor,routine medical appointment
+นัดหมายเพื่อตรวจเพิ่มเติม,routine medical appointment
+"รักษาเบื้องต้นก่อนไป รพ., nsaid",seek medical advice
+make appointment with doctor,routine medical appointment
+ควรไปพบแพทย์ภายใน 2-3 วัน,seek medical advice (2-3 days)
+สามารถรักษาให้หายเองได้,self care
+นัดหมายแพย์เพื่อตรวจเพิ่มเติม,routine medical appointment
+นัดหมายแพทย์ตรวจเพิ่มเติม,routine medical appointment
+นัดหมายแพทย์เพื่อตรวจเพิ่มเติม,routine medical appointment
+แนะนำนัดหมายแพทย์ เพื่อตรวจเพิ่มเติม,routine medical appointment
+นัดหมายแพทย์,routine medical appointment

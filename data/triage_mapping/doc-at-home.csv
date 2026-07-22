@@ -1,0 +1,116 @@
+original_triage,intermediate_triage
+urgent ควรไปพบแพทย์ใน 2-3 วัน,seek medical advice (3 days)
+ควรไปพบแพทย์ถ้าไม่ทุเลาใน 3-4 วัน,seek medical advice (3 days)
+นัดหมายแพทย์ เพื่อตรวจเพิ่มเติม,routine medical appointment
+พบแพทย์ใน 2-3 วัน,seek medical advice (3 days)
+ควรไปพบแพทย์ ภายใน 2-3 วัน,seek medical advice (3 days)
+ควรพบแพทย์ใน 24 ชม,seek medical advice (1 day)
+รักษาตามอาการ ควรพบแพทย์เมื่อมีไข้เกิน 4 วัน อาการคัดจมูกไม่ทุเลาลงใน 1 สัปดาห์ หรือสังสัยภาวะแทรกซ้อน,self care
+see a doctor in 24 hours,seek medical advice (1 day)
+ควรไปพบแพทย์ภายใน 6 ชั่วโมง,seek medical advice (6 hours)
+ควรไปพบแพทย์ ถ้ามีอาการเจ็บตามากหรือตาพร่ามัว/มีขี้ตาแฉะ/อาการไม่ทุเลาภายใน 1 สัปดาห์/มีความวิตกกังวล,self care
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 1 สัปดาห์ หรือเดินลำบาก,self care
+ควรไปพบแพทน์ใน 2-3 วัน,seek medical advice (3 days)
+see a doctor within 6 hours,seek medical advice (6 hours)
+see doctor in 24 hours,seek medical advice (1 day)
+ควรพบแพทย์ใน 2-3 วัน,seek medical advice (3 days)
+see a primary care doctor within 1-2 days,seek medical advice (3 days)
+ควรไปพบแพทย์ ภายใน 1 สัปดาห์ เพื่อตรวจหาสาเหตุ,seek medical advice (1 week)
+see a doctor in 2-3 days,seek medical advice (3 days)
+ควรไปพบแพทย์ภายใน 1-2 วัน,seek medical advice (3 days)
+call emergency,emergency medical services
+ควรไปพบแพทย์ ภายใน 24 hr,seek medical advice (1 day)
+ควรไปพบแพทย์ใน 1 สัปดาห์,seek medical advice (1 week)
+เอียงหูต่ำเคาะศีรษะเบา ๆ ไปพบแพทย์ถ้าไม่ได้ผลหรือไม่มั่นใจที่จะแก้ไขเอง,self care
+ควรไปพบแพทย์ถ้าไม่ดีขึ้นภายใน 2-3 วัน เพื่อตรวจหาสาเหตุ,self care
+non-urgent gp,routine medical appointment
+ควรไปพบแพทย์ ภายใน 24 ชั่วโมง,seek medical advice (1 day)
+ควรไปพบแพทย์ภายใน 24 ชั่วโมง หรือ ทันทีหากมีอาการหายใจลำบาก,seek medical advice (1 day)
+ควรไปพบแพทย์ 2-3 วัน,seek medical advice (3 days)
+ควรไปพบแพทย์ ถ้าไม่ได้ผลภายใน 1 สัปดาห์,seek medical advice (1 week)
+ควรพบแพทย์ด่วน,emergency medical service
+see a doctor in 24 h,seek medical advice (1 day)
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 1 สัปดาห์ หรือมีไข้เกิน 7 วัน/ปวดข้อรุนแรง/ข้อบวมแดงร้อน/ซีด/น้ำหนักลด/มีความวิตกกังวล,self care
+ควรไปพบแพทย์ภายใน 6 ชั่วโมงหากกระดูกหักแบบปิด หรือ ทันทีหากเป็นกระดูกหักแบบเปิด,seek medical advice (6 hours)
+"ควรไปพบแพทย์ด่วน เพื่อตรวจอาการเพิ่มเติม เนื่องจากอาการของคุณข้างต้นอาจเป็นสัญญาณของ หลอดเลือดแดงใหญ่โป่งพอง, ภาวะเลือดเซาะผนังหลอดเลือดแดงใหญ่ หรือสาเหตุร้ายแรงอื่น ๆ",emergency medical services
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 2 สัปดาห์ หรือน้ำหนักลด,self care
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 2-3 วัน,self care
+ควรไปพบแพทย์ถ้าอาการไม่ดีขึ้นใน 2-3 วัน หรือเป็นๆหายๆบ่อย/มีเสียงดังรบกวนในหู/เดินเซ/เห็นภาพซ้อน/พูดไม่ชัด/กลืนลำบาก/ชารอบปาก/แขนขาชาหรืออ่อนแรง/อาเจียนมาก,self care
+ไปพบแพทย์ด่วน,emergency medical services
+ควรไปพบแพทย์โดยด่วน,emergency medical services
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 2-3 วัน หรือแพ้ยา/คันมาก/หายใจลำบาก/เกิดจากถูกผึ้งหรือต่อต่อย,self care
+ควรไปพบแพทย์ถ้าไม่ดีขึ้นภายใน 2-3 วัน หรือปวดรุนแรงหรือกดเจ็บ,self care
+ควรไปพบแพทย์ภายใน 2-3 วัน,seek medical advice (3 days)
+ควรพบแพทย์ภายใน 2-3 วัน,seek medical advice (3 days)
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 1 สัปดาห์ หรือหายใจมีเสียงวี้ด/หอบเหนื่อย,self care
+ควรไปพบแพทย์ใน 6 ชม เพื่อตรวจหาสาเหตุ,seek medical advice (6 hours)
+ควรไปพบแพทย์ ถ้ามีอาการปวดแขนหรือขารุนแรง หรือปวดนานเกิน 1 สัปดาห์ เพื่อตรวจหาสาเหตุ,self care
+go to er,emergency medical services
+see doctor within 24 hr,seek medical advice (1 day)
+พบแพทย์ใน2-3วัน,seek medical advice (3 days)
+"see a doctor if: ลักษณะข้อใดข้อหนึ่งดังต่อไปนี้
+มีอาการมือสั่นนานเกิน 1-2 สัปดาห์
+มีผลกระทบต่อการใช้ชีวิตประจำวัน
+มีอาการผิดปกติอื่น ๆ เช่น ปวดศีรษะมาก อาเจียนมาก แขนขาอ่อนแรง กล้ามเนื้อเกร็งหรือกระตุก เดินเซ เป็นต้น อาการของคุณข้างต้นอาจเป็นสัญญาณของ สมองได้รับบาดเจ็บ, โรคหลอดเลือดสมอง, เนื้องอกสมองส่วนเซรีเบลลัม (cerebellar tumor) หรือโรคอื่น ๆ",self care
+"ควรไปพบแพทย์ ภายใน 2-3 วัน เพื่อตรวจอาการเพิ่มเติม เนื่องจากอาการของคุณข้างต้นอาจเป็นสัญญาณของ มะเร็งเยื่อบุมดลูก, มะเร็งปากมดลูก หรือโรคอื่น ๆ",seek medical advice (3 days)
+ควรไปพบแพทย์ภายใน 2-3 วันเพื่อตรวจหาอาการเพิ่มเติม,seek medical advice (3 days)
+ควรไปพบแพทย์ด่วนเพื่อตรวจหาสาเหตุ,emergency medical services
+ควรไปพบแพทย์ถ้าไม่ดีขึ้นใน 2-3 วัน,self care
+กินน้ำตาล/ของหวาน/น้ำหวาน,self care
+see a doctor in 1 week if symptoms persist,self care
+ควรไปพบแพทย์ภายใน 6 ชม.,seek medical advice (6 hours)
+ควรพบแพทย์ภายใน 24 ชม/ควรพบแพทย์โดยด่วน,seek medical advice (1 day)
+see a doctor if ซีด,self care
+ควรไปพบแพทย์ด่วน เพื่อตรวจหาสาเหตุ,emergency medical services
+see a doctor if symptoms persist after 1 week,self care
+ควรพบแพทย์โดยด่วน,emergency medical services
+ควรไปพบแพทย์ภายใน 2-3วัน,seek medical advice (3 days)
+ควรไปพบแพทย์หากปวดนานเกิน 72 hours,self care
+ควรไปพบแพทย์ภายใน 1 สัปดาห์,seek medical advice (1 week)
+observe,self care
+ควรไปพบแพทย์ถาไม่หายในหนึ่งสัปดาห์,self care
+ควรไปพบแพทย์ ภายใน 2-3 วัน หรือด่วนหากมีอาการซีดหรือเลือดออกมาก,seek medical advice (3 days)
+ควรไปพบแพทย์ ภายใน 1 สัปดาห์,seek medical advice (1 week)
+ควรพบแพทย์ภายใน 24 ชม เพื่อตรวจอาการเพิ่มเติม,seek medical advice (1 day)
+ไปพบแพทย์หากไม่ดีขึ้นใน 24 ชม.,self care
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 1 สัปดาห์ หรือน้ำหนักลด/คลำได้ก้อนที่ใต้ชายโครงขวา หรือแน่นอึดอัดในหน้าอก/มีความวิตกกังวล,self care
+see doctor within 6 hours,seek medical advice (6 hours)
+see a doctor in 1 week,seek medical advice (1 week)
+ควรไปพบแพทย์ ภายใน 6 ชั่วโมง,seek medical advice (6 hours)
+ควรไปพบแพทย์ถ้ามีอาการผิดปกติอื่นๆ,self care
+แนะนำให้หยุดยา และกลับไปพบแพทย์ที่รักษาอยู่เดิมภายใน 24 ชั่วโมง,seek medical advice (1 day)
+ควรไปพบแพทย์ใน 24 hr,seek medical advice (1 day)
+ควรไปพบแพทย์,seek medical advice
+ควรไปพบแพทย์ภายใน 24 ชั่วโมง,seek medical advice (1 day)
+see doctor within 1-2 days,seek medical advice (3 days)
+see a doctor asap,emergency medical services
+ควรไปพบแพทย์ภายใน 2-3 วันเพื่อหาสาเหตุ),seek medical advice (3 days)
+ควรไปพบแพทย์หากไม่ดีขึ้น ภายใน 2-3 วัน,self care
+พบแพทย์ภายใน 2-3 วันเพื่อหาสาเหตุ,seek medical advice (3 days)
+ควรไปพบแพทย์หากอาการไม่ดีขึ้นในหนึ่งสัปดาห์,self care
+กินยาแก้ปวด พาราเซตามอล เพื่อบรรเทาอาการ ควรไปพบแพทย์ถ้าไม่ดีขึ้นใน 1 สัปดาห์,self care
+self-treatment,self care
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 1 สัปดาห์ หรือเคลื่อนไหวลำบาก,self care
+ควรไปพบแพทย์ ถ้ามีอาการผิดปกติอื่นๆ เพื่อตรวจหาสาเหตุ,self care
+พบแพทย์ภายใน2-3วัน,seek medical advice (3 days)
+พบแพทย์ด่วน,emergency medical services
+see doctor within 2 days,seek medical advice (3 days)
+ควรไปพบแพทย์ ถ้าไม่ดีขึ้นใน 1 สัปดาห์,self care
+emergency ควรไปพบแพทย์ด่วน,emergency medical services
+urgent gp,urgent medical service
+ควรไปพบแพทย์ภายใน 2-3 วันเพื่อหาสาเหตุ,seek medical advice (3 days)
+ควรไปพบแพทย์ภายใน 2-3 วันเพื่อตรวจหาสาเหตุ,seek medical advice (3 days)
+ควรปรึกษาแพทย์,seek medical advice
+ควรพบแพทย์เฉียบพลัน,emergency medical services
+ควรไปพบแพทย์ถ้าไม่ดีขึ้นใน 2 สัปดาห์,self care
+พบแพทย์ภายใน 2-3 วัน,seek medical advice (3 days)
+ควรไปพบแพทย์ภายใน 24 ชั่วโมงเพื่อหาสาเหตุ,seek medical advice (1 day)
+ควรไปพบแพทย์ด่วน,emergency medical services
+see doctor within 24 hours,seek medical advice (1 day)
+ควรไปพบแพทย์ภายใน 24 ชม.,seek medical advice (1 day)
+see a doctor,seek medical advice
+self-care,self care
+ควรไปพบแพทย์ภายใน 1-2 สัปดาห์,seek medical advice (1 week)
+urgent ควรไปพบแพทย์ใน 2 วัน,seek medical advice (3 days)
+ควรไปพบแพทย์ถ้าไม่ดีขึ้นใน 1 สัปดาห์หรือเคลื่อนไหวลำบาก,self care
+ควรพบแพทย์ใน 24 ชม/ด่วน,emergency medical services

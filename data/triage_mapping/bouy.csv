@@ -1,0 +1,60 @@
+original_triage,intermediate_triage
+see aprimary care doctor in 1-2 days,primary care doctor within 1-2 days
+see a doctor in 1-2 days,primary care doctor within 1-2 days
+see primary doctor within 2 weeks,primary care doctor within 2 weeks
+urgent gp,in-person visit today
+see doctor within 2 weeks,primary care doctor within 2 weeks
+visit doctor as soon as possible,in-person visit today
+hospital emergency room,emergency medical services
+"self treatment, if rash doesn't go away in 3-5 days suggest see a provider",self care
+see a primary care doctor within 1-2 days,primary care doctor within 1-2 days
+see a primary care doctor within 2 weeks,primary care doctor within 2 weeks
+emergency and requires immediate surgery,emergency medical services
+call 911,Call ambulance
+see primary doctor in 1-2 days,primary care doctor within 1-2 days
+go to er,emergency medical services
+medical emergency required,emergency medical services
+see a primary care doctor in 2 weeks,primary care doctor within 2 weeks
+see doctor within 1-2 days,primary care doctor within 1-2 days
+wait and watch,wait and watch
+see a doctor asap,in-person visit today
+"scenerio detected/ in peson visit, today or as soon as possible",in-person visit today
+"in-person vait, today or as soon as possible",in-person visit today
+emergency,emergency medical services
+hospital emergecy room,emergency medical services
+in-person visit as soon as possible,in-person visit today
+see primary doctor witihin 2 weeks,primary care doctor within 2 weeks
+see primary care doctor within 2 weeks,primary care doctor within 2 weeks
+see primary doctor care within 2 weeks,primary care doctor within 2 weeks
+medical emergency,emergency medical services
+see a primary care doctor in 1-2 days,primary care doctor within 1-2 days
+emegency,emergency medical services
+emergency medical service,emergency medical services
+in person visit today or as soon as possible,in-person visit today
+"in person visit; tpday or as soon as possible",in-person visit today
+self-treament,self care
+virtual consult a doctor,virtual consult a doctor
+call 911 this condition is an emergency,call ambulance
+see a primary doctor within 1-2 days,primary care doctor within 1-2 days
+self-treatment,self care
+immediate medical care,emergency medical services
+see a primary care doctor witin 1-2 days,primary care doctor within 1-2 days
+self treatment (alarm detect),self care
+visit doctor in the next 3 days,visit doctor in the next 3 days
+see a primary doctor withi 2 weeks,primary care doctor within 2 weeks
+see doctor within 2 days,primary care doctor within 1-2 days
+"in-person visit; today or as soon as possible",in-person visit today
+see a primary care doctor in 1-3 days,primary care doctor within 1-2 days
+ควรไปพบแพทย์ภายใน 24 ชั่วโมงเพื่อตรวจหาอาการเพิ่มเติม,in-person visit today
+virtual or in-person visit in the next 3 days,visit doctor in the next 3 days
+self-care,self care
+self treatment,self care
+urgent care (alarm detected),in-person visit today
+see a primary doctor within 2 weeks,primary care doctor within 2 weeks
+alarm detector/ hospital emergency room,emergency medical services
+self care,self care
+see docotr in the next 3 days,primary care doctor within 1-2 days
+inperson visit asap,in-person visit today
+not urgent / see doctor in 2 weeks,primary care doctor within 2 weeks
+see doctor in 1-3 days,primary care doctor within 1-2 days
+not urgent / seek medical within 2 weeks,primary care doctor within 2 weeks

@@ -1,0 +1,2837 @@
+disease,all_info_1,triage_W,triage_S,triage_level_diff,comment_s,triage_s_final,comment_w,triage_w_final,pool_result,triage_diff_readjusted
+hyperventilation syndrome,"Demographic: Gender: female
+, Age: 29
+
+Chief complaint: symptom: Numbness and rapid breathing
+, duration: Last few hours
+
+History (on Open questioning): info1: The patient reports experiencing episodes of rapid breathing preceded by intense periods of stress.
+, info2: She describes feeling an overwhelming sense of panic during these episodes.
+, info3: Notes that her hands and around her mouth feel numb during these episodes.
+, info4: She mentions that these symptoms tend to resolve on their own after a few hours.
+, info5: States that these episodes have been happening more frequently over the past few months.
+
+History (When asked directly): info1: Denies chest pain, palpitations, or dizziness during these episodes.
+, info2: Mentions that deep breathing seems to prolong the episode duration.
+, info3: Has noticed that trying to distract herself or practicing relaxation techniques can sometimes prevent the episode from escalating.
+, info4: No history of asthma, diabetes, or any other chronic illnesses.
+, info5: Admits to feeling generally anxious and has been under a lot of stress at work.
+
+Family History: Mother has a history of anxiety. No known family history of cardiac or respiratory diseases.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications. Occasionally takes over-the-counter ibuprofen for headaches.
+
+Social History: occupation: Software developer
+, lifestyles: Occasional social drinker, non-smoker, has a fairly sedentary lifestyle due to long working hours
+, stress_factors: Reports high stress at work and recent breakup
+
+Allergies: NKDA",4.0,1.0,3.0,พิจารณาจาก rapid breathing คือสิ่งที่รอไม่ได้ครับ ควรมาประเมิน,1.0,"ญ อายุน้อย หายใจเร็ว(ไม่มีเจ็บอก/ใจสั่น/วูบ) ชารอบปาก รอบมือ ผ่อนคลายแล้วอาการไม่แย่ลง มีภาวะเครียดเดิม อาการเป็นๆหายๆมาก่อน ไม่มีครั้งไหนมีอาการทางคลินิกถึงเกณฑ์อันตราย อาการ typical hyperventilation syndrome คิดว่าอยู่บ้าน observe ก่อนได้ + ให้คำแนะนำในการปฏิบัติตัว ถ้ามีอาการเปลี่ยนแปลง triage ได้ใหม่ตามความเร่งด่วน
+เช่น เหนื่อย + วูบ + นอนราบไม่ได้ มา ER ทันที triage 1
+กังวลเพราะช่วงนี้อาการเป็นบ่อยขึ้น แต่ยังไม่มีสัญญาณอันตรายชัดเจน triage 3,4",4.0,1,3.0
+balanitis,"Demographic: Gender: male
+, Age: 32
+
+Chief complaint: symptom1: dysuria
+, symptom2: pain during ejaculation
+, symptom3: urethral discharge
+, symptom4: pain at the glans penis
+, recent_unprotected_sex: Yes, 5 days ago
+
+History (on Open questioning): info1: The patient reports a sharp pain during urination and ejaculation.
+, info2: He also notices a yellowish discharge from his penis.
+, info3: Mentions discomfort and pain located at the tip of his penis, especially noticeable when he touches it or urinates.
+, info4: Reports having had unprotected sexual intercourse 5 days prior to the onset of symptoms.
+
+History (When asked directly): info1: Denies any previous similar episodes.
+, info2: No known allergies.
+, info3: No fever or chills.
+, info4: Denies any rash or lesions on his body.
+, info5: Has not taken any medication for these symptoms.
+
+Family History: Non-contributory
+
+Past Medical History: No significant past medical history
+
+Drug History: No regular medications
+
+Social History: info1: Drinks alcohol socially, denies tobacco or recreational drug use.
+, info2: Works in IT with a mostly sedentary lifestyle.
+
+Allergies: None known",3.0,2.0,1.0,,3.0,เปลี่ยนตาม,2.0,2,1.0
+bppv,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: Primary: Dizziness and episodes of the room spinning
+, Secondary: Nausea & Vomiting associated with dizziness
+
+History (on Open questioning): info1: The patient describes episodes of the room spinning around her, precipitated by changing the position of her head.
+, info2: This sensation lasts for less than a minute but is very intense.
+, info3: She mentions that getting out of bed, or rolling over in bed, triggers these episodes.
+, info4: There is no associated hearing loss or ringing in the ears.
+, info5: She has not experienced any fainting episodes, chest pain, or palpitations.
+
+History (When asked directly): info1: She admits to feeling nauseous and has vomited during severe episodes.
+, info2: No recent upper respiratory infections.
+, info3: Denies any recent head injury.
+, info4: No history of similar symptoms in the family.
+, info5: Denies any weakness, numbness, or difficulty speaking during these episodes.
+
+Family History: No known genetic disorders or chronic illnesses in the family.
+
+Past Medical History: Hypertension, osteoarthritis.
+
+Drug History: Lisinopril for hypertension. Occasional acetaminophen for joint pain.
+
+Social History: Smoking: No tobacco use.
+, Alcohol: Social drinker, 1-2 glasses of wine per week.
+, Recreational Drugs: No recreational drug use.",4.0,3.0,1.0,,3.0,both are valid,4.0,3,1.0
+astigmatism,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: Primary: blurred vision
+, Secondary: dizziness
+, Duration: last few days to a week
+, Duration of episodes: lasting more than 3 days
+
+History (on Open questioning): info1: The patient reports experiencing blurred vision, noting it becomes worse when she moves her head or changes posture.
+, info2: She mentions that the symptoms have been gradually increasing over the last week.
+, info3: Recently, she started experiencing dizziness along with her visual disturbances.
+, info4: These symptoms seem to persist throughout the day without significant relief.
+, info5: She hasn't experienced any similar symptoms in the past.
+
+History (When asked directly): info1: No history of trauma to the head or eyes.
+, info2: She denies any recent infections, fevers, or other systemic symptoms.
+, info3: No significant nausea or vomiting associated with her dizziness.
+, info4: She hasn't used any new medication or glasses in recent times.
+, info5: Denies any change in her diet, hydration status, or recent significant stressors.
+
+Family History: Non-contributory, no known family history of chronic diseases or eye problems.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications. Occasionally uses over-the-counter pain relievers for headaches.
+
+Social History: info1: Non-smoker
+, info2: Social alcohol use, no drug use
+, info3: Works as a graphic designer, which involves prolonged use of computers.",4.0,2.0,2.0,,3.0,เปลี่ยนใหม่เนื่องจากควรได้รับการตรวจร่างกาย และส่งตรวจ investigation เพิ่มเติม,2.0,2,1.0
+brachial plexus injury,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom: pain, numbness, and tingling in shoulder, arm, and hand
+, duration: since the motorcycle accident 2 weeks ago
+
+History (on Open questioning): info1: Patient reports a motorcycle accident 2 weeks ago, where she fell onto her right shoulder.
+, info2: Since the accident, she has been experiencing persistent pain, numbness, and tingling in her right shoulder, arm, and hand.
+, info3: She describes the pain as a burning or electric shock-like sensation that can radiate from her neck down to her arm.
+, info4: There are areas in her hand where she notices decreased sensation to touch.
+, info5: She finds it difficult to lift her arm or grasp objects, which is affecting her daily activities.
+
+History (When asked directly): info1: The pain seems to worsen when she extends her neck or turns her head.
+, info2: No previous similar episodes before the accident.
+, info3: She tried over-the-counter pain medication with little relief.
+, info4: She denies any headache, dizziness, or loss of consciousness.
+, info5: Admits to difficulty in sleeping due to pain.
+, info6: No recent illness or other injuries.
+
+Family History: No known genetic diseases
+
+Past Medical History: No significant past medical history
+
+Drug History: Only over-the-counter pain relievers since the accident
+
+Social History: Employment: Graphic designer
+, Smoking: Non-smoker
+, Alcohol: Social drinker, approximately one drink per week.
+, Recreational drugs: None
+
+Allergies: No known drug allergies",2.0,3.0,1.0,,3.0,เปลี่ยนตาม,2.0,2,1.0
+congestive heart failure,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: symptom1: inability to lie flat
+, symptom2: easy fatigability
+, duration: over the past 6 months
+
+History (on Open questioning): info1: The patient has noticed that she is unable to sleep flat at night due to feeling short of breath and has to prop herself up with several pillows.
+, info2: She reports feeling tired very quickly, even with minimal physical activity such as walking around her home.
+, info3: She has also noticed that her clothes are fitting more loosely, and upon checking her weight, realized she has lost weight without trying.
+, info4: She reports a gradual increase in the swelling of her ankles.
+, info5: Mentions having to go to the bathroom more often at night to urinate.
+, info6: Describes a persistent cough, especially at night.
+
+History (When asked directly): info1: She has a history of hypertension and ‘heart problems’ for which she takes medication.
+, info2: Denies chest pain or palpitations.
+, info3: No recent trips, surgeries, or illnesses.
+, info4: Reports a decrease in appetite but no nausea or vomiting.
+, info5: Denies any specific diet but notes a decreased interest in eating.
+, info6: The symptoms have been gradually worsening over the past 6 months.
+
+Family History: Father had 'heart problems'. Mother has diabetes.
+
+Past Medical History: Hypertension, diagnosed 'heart problem', not further specified
+
+Drug History: Enalapril, Furosemide
+
+Social History: lifestyle: retired teacher, lives alone
+, smoking: never smoked
+, alcohol: occasional glass of wine
+, exercise: minimal recently due to feeling tired and breathless
+
+Allergies: NKDA",4.0,2.0,2.0,,3.0,เปลี่ยนใหม่เนื่องจากควรได้รับการตรวจร่างกาย และส่งตรวจ investigation เพิ่มเติม,2.0,2,1.0
+cervical spondylosis,"Demographic: Gender: female
+, Age: 55
+
+Chief complaint: symptom: neck pain with arm numbness
+, duration: more than 3 months
+
+History (on Open questioning): info1: The patient describes chronic neck pain, which has been worsening over the past few months.
+, info2: She mentions the pain sometimes radiates to her shoulders and down to her arms.
+, info3: Describes a sensation of numbness and decreased sensation in her arms.
+, info4: Notes that turning her head or bending her neck often exacerbates her symptoms.
+, info5: Mentions that her pain and discomfort make it difficult for her to perform daily tasks or sleep well.
+
+History (When asked directly): info1: No recent trauma or accidents mentioned.
+, info2: Denies weakness in the arms or legs.
+, info3: No issues with bowel or bladder control.
+, info4: No previous surgeries on her neck or spine.
+, info5: Admits to using over-the-counter pain medication, which provides minimal relief.
+, info6: No history of cancer.
+
+Family History: No significant family history.
+
+Past Medical History: Hypertension, Type 2 Diabetes
+
+Drug History: Metformin, Amlodipine
+
+Social History: smoking: never smoked
+, alcohol: social drinker
+, occupation: retired teacher",4.0,3.0,1.0,,3.0,both are valid,4.0,3,1.0
+bell palsy,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom: progressive weakness and numbness on the right side of the face
+, duration: over the last week
+
+History (on Open questioning): info1: The patient noticed a slight weakness on the right side of her face about a week ago, which has progressively worsened.
+, info2: She has difficulty closing her right eye completely and her smile is asymmetrical.
+, info3: She also mentions feeling 'numb' on the affected side of her face, though there is no pain.
+, info4: No recent illnesses, vaccines, or new medications were noted.
+, info5: She denies any recent history of ear infections, skin rashes, or tick bites.
+
+History (When asked directly): info1: Difficulty with eating and drinking due to the weakness of the right side of her mouth, causing spillage.
+, info2: She mentions that her right eye feels 'dry' and 'gritty' due to difficulty blinking.
+, info3: No change in hearing, no ringing in the ears, and no severe headaches.
+, info4: No weakness or numbness in other parts of her body.
+, info5: No family history of neurological diseases.
+
+Family History: Mother with hypertension, father healthy
+
+Past Medical History: No significant past medical history
+
+Drug History: No regular medications
+
+Social History: occupation: teacher
+, habits: non-smoker, occasional alcohol, no recreational drugs
+, exercise: regular, mild exercises
+
+Allergies: NKDA",2.0,3.0,1.0,ต่างกันไม่มาก,3.0,both are valid,2.0,2,1.0
+food poisoning,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptoms: ['nausea', 'vomiting', 'bloating', 'diarrhea', 'intermittent cramping abdominal pain']
+, location: acute left upper epigastric pain
+, duration: since last night
+
+History (on Open questioning): info1: The patient reports feeling nauseous and has vomited multiple times since last night.
+, info2: She also mentions that her stomach feels bloated and uneasy.
+, info3: Additionally, she has experienced episodes of watery diarrhea.
+, info4: The abdominal pain is described as cramping and occurs in waves.
+, info5: Symptoms started a few hours after having dinner at a street food stall.
+
+History (When asked directly): info1: She recalls eating a dish that seemed a bit undercooked.
+, info2: No one else who ate with her is feeling ill.
+, info3: Denies any recent travel or similar episodes in the past.
+, info4: She has not taken any medication for her symptoms.
+, info5: Denies any known food allergies.
+
+Family History: Non-contributory
+
+Past Medical History: No chronic illnesses, surgeries, or significant hospitalizations.
+
+Drug History: No regular medications.
+
+Social History: smoking: non-smoker
+, alcohol: social drinker, no recent intake
+, occupation: office worker
+
+Allergies: None known",4.0,3.0,1.0,,4.0,"food poisoning/AGE อาการเล็กน้อย เป็นมาแค่ไม่กี่ ชม. คิดว่าดูอาการที่บ้านก่อนได้ + ได้รับคำแนะนำ +- ซื้อ ORS, ยาบรรเทาอาการอื่นๆ มาทานเองได้
+มีอาการเปลี่ยนแปลง หรือหายช้าพิจารณาอีกครั้ง",4.0,4,0.0
+endophthalmitis,"Demographic: Gender: female
+, Age: 62
+
+Chief complaint: Symptom: blur vision, eye pain, eye swelling
+, Duration: 2 days
+
+History (on Open questioning): info1: The patient reports that her vision in the right eye has suddenly become blurred over the past 2 days.
+, info2: She also notices that her right eye appears red and swollen.
+, info3: She experiences pain, especially when moving her eye, and describes a sensation of something scratching inside.
+, info4: Mentions the eye feels very irritated and sometimes itchy.
+, info5: No history of trauma or injury to the eye.
+
+History (When asked directly): info1: Denies recent exposure to chemicals or foreign bodies entering the eye.
+, info2: She had cataract surgery on the affected eye about one week ago.
+, info3: No similar symptoms in the left eye.
+, info4: No recent travel or exposure to individuals with conjunctivitis.
+, info5: No history of similar symptoms in the past.
+, info6: Denies fever or other systemic symptoms.
+
+Family History: Non-contributory
+
+Past Medical History: Hypertension, Cataract surgery on the right eye
+
+Drug History: Amlodipine, Post-operative antibiotic eye drops (details unknown)
+
+Social History: Smoking: No
+, Alcohol: Occasional, socially
+, Occupation: Retired teacher
+, Pets: No",1.0,2.0,1.0,,2.0,both are valid,1.0,1,1.0
+rheumatoid arthritis,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptom: pain in shoulders, arms, and hands
+, duration: over 3 months
+
+History (on Open questioning): info1: The patient reports experiencing pain and stiffness in her shoulders, arms, and hands for more than three months.
+, info2: She mentions the pain is worse in the mornings with stiffness lasting for over an hour.
+, info3: The pain slightly improves with activity, but never completely goes away.
+, info4: She also notices swelling in her wrists and fingers, making it difficult to grip objects or perform tasks requiring manual dexterity.
+, info5: The symptoms have gradually worsened, affecting her daily activities and sleep.
+
+History (When asked directly): info1: Confirms the pain is symmetrical, affecting both sides of the body.
+, info2: Reports that the joints in her hands are tender and sometimes feel warm to the touch.
+, info3: No recent illnesses or fevers, but mentions feeling generally unwell and fatigued.
+, info4: Denies back pain or problems with other joints.
+, info5: States that over-the-counter NSAIDs provide minimal relief.
+
+Family History: Mother had 'arthritis' in her later years, not specified if rheumatoid or osteoarthritis.
+
+Past Medical History: Hypothyroidism, managed with medication.
+
+Drug History: Levothyroxine for hypothyroidism, occasionally ibuprofen for pain which provides minimal relief.
+
+Social History: Works as a school teacher, non-smoker, occasional alcohol use. Reports a sedentary lifestyle due to pain.
+
+Allergies: NKDA (No Known Drug Allergies)",4.0,3.0,1.0,,3.0,คิดว่ารอตรวจกับ rheumatologist ตามปกติได้ triage 4,4.0,3,1.0
+torsion ovarian cyst,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptom: abdominal pain
+, character: Acute left, suprapubic & right lower pain, intermittent, radiating
+, associated symptoms: pain increases with physical exertion
+
+History (on Open questioning): info1: The patient describes the pain as sharp, twisting, and intermittent, occurring several times over the last 48 hours.
+, info2: She mentions the pain seems to 'come and go', with periods of relief.
+, info3: The pain intensifies with any form of physical activity or exertion.
+, info4: States that the pain occasionally radiates to the lower back.
+, info5: Denies any history of similar pain in the past.
+
+History (When asked directly): info1: Denies any recent urinary or bowel changes.
+, info2: No fever, vomiting, or bleeding noted.
+, info3: Mentioned she is on a regular menstrual cycle, and the pain is unrelated to her periods.
+, info4: No recent trauma to the abdomen.
+, info5: No history of surgeries.
+
+Family History: Mother had a history of ovarian cysts. No history of ovarian or breast cancer
+
+Past Medical History: Polycystic ovary syndrome diagnosed 5 years ago. Regular menstrual cycles.
+
+Drug History: Oral contraceptives for PCOS management
+
+Social History: smoking: no
+, alcohol: social drinker, occasionally
+, drugs: no recreational drug use
+, activity_level: moderately active
+
+Allergies: NKDA (No Known Drug Allergies)",2.0,1.0,1.0,,1.0,both are valid,2.0,1,1.0
+traumatic cervical spine fracture,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom: neck pain
+, duration: since an accident a week ago
+
+History (on Open questioning): info1: The patient reports experiencing significant neck pain following a car accident a week ago.
+, info2: She mentions that the pain intensifies with movement and is somewhat relieved by rest and immobilization.
+, info3: There is a continuous dull ache in the neck area, worsening at the end of the day.
+, info4: She also reports episodes of sharp, shooting pains that radiate towards her shoulders and down to her arms.
+, info5: Noticed a decreasing sensation and numbness in her arms, more prominently on the right.
+
+History (When asked directly): info1: The accident involved a rear-end collision while she was stationary at a traffic light.
+, info2: She was wearing a seatbelt, and her airbag was deployed.
+, info3: She did not lose consciousness but was jarred by the impact.
+, info4: Visited a local clinic immediately after the accident; x-rays were taken but not clearly explained to her.
+, info5: She has been experiencing difficulty in gripping objects with her right hand.
+, info6: There's been a gradual increase in the intensity of pain and discomfort since the accident.
+, info7: Has not experienced similar symptoms before the accident.
+
+Family History: No significant family history of neurological or musculoskeletal diseases.
+
+Past Medical History: Generally healthy, No prior surgeries or hospitalizations
+
+Drug History: Only over-the-counter analgesics post-accident, ibuprofen sparingly for neck pain.
+
+Social History: Occupation: Graphic designer
+, Smoking: Non-smoker
+, Alcohol: Occasional social drinker
+, Recreational drugs: None
+
+Allergies: No known drug allergies",1.0,2.0,1.0,,2.0,both are valid,1.0,1,1.0
+tb spine,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: back pain
+, characteristics: severe enough to wake her from sleep, associated with fever
+, duration: over the past 2 months
+
+History (on Open questioning): info1: The patient has been experiencing back pain for the last two months.
+, info2: The pain is in the mid to lower back and has progressively worsened.
+, info3: Initially, the pain was manageable, but now it's severe enough to disrupt her sleep.
+, info4: She also mentions experiencing a low-grade fever for the past few weeks.
+, info5: The patient recalls that the pain slightly improves with rest but never completely goes away.
+
+History (When asked directly): info1: She has a history of tuberculosis 5 years ago and completed treatment.
+, info2: Currently, she is on medication for rheumatoid arthritis, including immunosuppressants.
+, info3: No recent injuries or strains that she can recall.
+, info4: Denies weight loss, changes in bowel or bladder function, or other systemic symptoms.
+, info5: She mentions her inability to perform routine activities due to pain and fatigue.
+
+Family History: No known family history of spinal diseases or tuberculosis.
+
+Past Medical History: Tuberculosis (treated 5 years ago), Rheumatoid Arthritis
+
+Drug History: Methotrexate, Folic acid supplements
+
+Social History: info1: Non-smoker
+, info2: Occasional alcohol
+, info3: Works as a high school teacher
+, info4: Lives with her husband and two children",4.0,3.0,1.0,,3.0,both are valid,4.0,3,1.0
+tb,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom1: chronic cough
+, duration1: more than 2 weeks
+, symptom2: weight loss
+, duration2: more than 5% body weight loss over the past month
+, additional_symptoms: fever
+
+History (on Open questioning): info1: The patient reports a persistent cough that has lasted for more than two weeks.
+, info2: She initially thought it was just a common cold but grew concerned as the cough worsened over time.
+, info3: She has also noticed a significant drop in her weight without intentional diet or exercise modifications.
+, info4: She reports occasional night sweats.
+, info5: The patient mentions lately she's been feeling generally unwell with a loss of appetite.
+
+History (When asked directly): info1: The cough is productive, with yellowish sputum.
+, info2: She occasionally feels short of breath, but this is not constant.
+, info3: No recent travel history.
+, info4: No contact with known TB patients, but she works in a crowded office.
+, info5: Denies smoking or alcohol use.
+, info6: Her grandmother had a 'lung disease' but she is unsure of the details.
+
+Family History: Grandmother had some type of chronic lung disease.
+
+Past Medical History: No known past medical issues.
+
+Drug History: No regular medications, occasional ibuprofen for headaches.
+
+Social History: occupation: office worker
+, lifestyle: sedentary
+, substance_use: no smoking or alcohol consumption
+
+Allergies: NKDA",4.0,3.0,1.0,,3.0,รอตรวจกับ chest ตามปกติได้ triage 4,4.0,3,1.0
+cervical herniated disc,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: neck pain radiating to arm
+, description: painful electric shock-like sensations
+, aggravated by: movement
+
+History (on Open questioning): info1: The patient describes a sharp, burning pain starting from the neck and radiating down to her arm.
+, info2: She reports the pain is similar to being shocked with electricity.
+, info3: The pain has been present for a few weeks, gradually worsening.
+, info4: Movements such as turning her head or lifting objects make the pain worse.
+, info5: No recent injuries or accidents.
+
+History (When asked directly): info1: The pain occasionally comes with tingling sensations and numbness in the affected arm.
+, info2: She notes weakness when trying to grip objects with her hand on the affected side.
+, info3: Denies any changes in bladder or bowel habits.
+, info4: She works as a graphic designer, often spending long hours at a computer.
+, info5: No significant improvement with over-the-counter pain medications.
+
+Family History: No known family history of spinal disorders.
+
+Past Medical History: No significant past medical history.
+
+Drug History: Occasionally takes ibuprofen, with no significant relief.
+
+Social History: Occupation: Graphic designer
+, Hobbies: Yoga, which she has had to stop due to the pain.
+, Smoking: Non-smoker
+, Alcohol: Occasional social drinking
+
+Allergies: No known drug allergies.",3.0,1.0,2.0,"neuro restoration is needed to evaluate in emergency , if not --> persist disability because DDx herniation",1.0,ปวดร้าว ยังไม่มีอ่อนแรง อาการค่อยๆเป็นมาเป็นสัปดาห์ คิดว่า triage 2-3,2.0,1,1.0
+viral syndrome,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: PrimarySymptoms: ['new onset headache', 'fever']
+
+History (on Open questioning): info1: The patient reports experiencing headaches for the past 3 days.
+, info2: The headache is diffuse and not localized to any particular area.
+, info3: Describes the pain as moderate, constant, and more like a pressure.
+, info4: She also mentions feeling feverish since the onset of the headache.
+, info5: Additionally, she has been experiencing general malaise and fatigue.
+
+History (When asked directly): info1: Admits to noticing a slight runny nose and occasional dry cough.
+, info2: Denies any recent travel or known sick contacts.
+, info3: Has not taken any medications for the symptoms yet, fearing it might just be a cold.
+, info4: No vomiting, but has experienced loss of appetite.
+, info5: Denies any history of similar symptoms in the past.
+, info6: No rash, no joint pains, and no photophobia.
+
+Family History: No significant family history.
+
+Past Medical History: Generally healthy, no chronic illnesses.
+
+Drug History: No regular medications.
+
+Social History: Occupation: Teacher
+, Lifestyle: Non-smoker, occasional alcohol consumption, no recreational drug use.
+, RecentActivities: Recently participated in a school camping trip.
+
+Allergies: No known drug allergies.",4.0,3.0,1.0,,4.0,เปลี่ยนตาม,3.0,3,1.0
+vestibular migraine,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: Primary_symptom: dizziness
+, Associated_symptoms: ['headache', 'sensitivity to light', 'sensitivity to loud noises']
+, Duration: intermittent over the last 6 months
+
+History (on Open questioning): info1: The patient describes episodes of spinning sensation or feeling like the room is moving around her.
+, info2: She also mentions a dull, throbbing headache that comes and goes.
+, info3: These symptoms often occur together and are sometimes triggered by moving her head quickly or changing positions.
+, info4: Bright lights and loud noises seem to make her symptoms worse.
+, info5: She has noticed these episodes happening in clusters, with symptom-free periods in between.
+
+History (When asked directly): info1: The dizziness can be so severe that it makes it hard for her to maintain her balance, resulting in her needing to sit or lie down until the episode passes.
+, info2: Sometimes before these episodes, she might feel like her ears are full or she hears ringing.
+, info3: No recent upper respiratory infections or recent significant stressors.
+, info4: She has not noticed any pattern with her menstrual cycle.
+, info5: No recent travel or changes in medication.
+
+Family History: Mother has a history of migraines, no family history of Meniere’s disease or vestibular problems.
+
+Past Medical History: Diagnosed with migraines since her teenage years, no history of diabetes or cardiovascular diseases.
+
+Drug History: Occasional ibuprofen for headaches, no regular medications.
+
+Social History: Tobacco: No smoking history
+, Alcohol: Rarely, socially
+, Caffeine: One cup of coffee daily
+, Occupation: Graphic designer, which involves long hours in front of computer screens
+, Exercise: Infrequent due to her symptoms",4.0,3.0,1.0,,3.0,คิดว่ารอตรวจกับ neurologist ตามปกติได้ triage 4,4.0,3,1.0
+viral enteritis,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptoms: ['diarrhea', 'nausea', 'vomiting', 'abdominal pain', 'fever']
+, duration: 2 days
+
+History (on Open questioning): info1: The patient reports sudden onset of nausea followed by vomiting and watery diarrhea 2 days ago.
+, info2: She has been unable to keep food or fluids down since the symptoms started.
+, info3: Describes the abdominal pain as diffuse and cramping in nature, worsening after eating.
+, info4: The fever started a day after the diarrhea began, she describes it as mild.
+, info5: Denies recent travel, eating out, or consuming any unusual foods.
+
+History (When asked directly): info1: The diarrhea is watery without blood or mucus.
+, info2: No urinary symptoms, no headache, or sore throat.
+, info3: The patient denies any recent antibiotic use.
+, info4: No history of similar symptoms in the family or close contacts.
+, info5: Mentioned that her toddler had similar symptoms a week ago but has since recovered.
+
+Family History: Not significant for gastrointestinal diseases.
+
+Past Medical History: No chronic illnesses.
+
+Drug History: No regular medications, occasionally takes ibuprofen for headaches.
+
+Social History: info1: Works as a primary school teacher.
+, info2: Non-smoker, occasionally drinks alcohol socially.
+, info3: No recreational drug use.
+
+Allergies: NKDA",4.0,3.0,1.0,,4.0,เปลี่ยนตาม,3.0,3,1.0
+urticaria,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptom: sudden onset of itchy rash
+, duration: 2 days
+, description: red and raised patches spread over the body
+
+History (on Open questioning): info1: The patient describes experiencing sudden onset of an itchy rash that appeared 2 days ago.
+, info2: She notices the rash gets worse at night.
+, info3: The itchiness is intense, leading to difficulty sleeping.
+, info4: She cannot identify any new foods, medications, or products she has used recently.
+, info5: She mentions that taking a cold shower seems to provide some temporary relief.
+
+History (When asked directly): info1: The rash first appeared on her trunk and then spread to her limbs.
+, info2: No recent travel history.
+, info3: Denies any fever, joint pain or swelling, throat soreness, or difficulty breathing.
+, info4: She has not tried any medications for the rash yet.
+, info5: Denies any similar past episodes but mentions that her mother suffers from seasonal allergies.
+
+Family History: Mother has seasonal allergies. No other significant family medical history.
+
+Past Medical History: No chronic illnesses or hospitalizations.
+
+Drug History: No regular medications. Takes ibuprofen as needed for headaches.
+
+Social History: Smoking: non-smoker
+, Alcohol: occasional social drinks
+, Recreational drugs: denies use
+, Occupation: graphic designer
+, Pets: has a cat at home
+, Diet: no dietary restrictions",3.0,2.0,1.0,,2.0,both are valid,3.0,2,1.0
+malaria,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptom: ['fever', 'chills', 'fatigue', 'jaundice']
+, duration: past week
+
+History (on Open questioning): info1: The patient reports experiencing intermittent high fever for the past week.
+, info2: She describes the fever as cyclical, with it peaking every other day.
+, info3: She also mentions episodes of severe chills and profuse sweating.
+, info4: There's a noticeable increase in her fatigue levels, making day-to-day activities difficult.
+, info5: Recently noticed her eyes and skin turning yellow.
+
+History (When asked directly): info1: She confirms being bitten by mosquitoes frequently in the past month.
+, info2: She visited a forested area approximately two weeks ago.
+, info3: Denies any prior similar health issues.
+, info4: Hasn't taken any over-the-counter or prescription medication for these symptoms.
+, info5: No known allergies.
+, info6: No significant medical history.
+
+Family History: Her family members are healthy with no known history of similar symptoms.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications.
+
+Social History: info1: She works as a researcher often requiring fieldwork in rural and forested areas.
+, info2: Non-smoker.
+, info3: Occasional alcohol consumption, socially.",3.0,1.0,2.0,,2.0,เปลี่ยนตาม,1.0,1,1.0
+pancreatitis,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptoms: ['acute left upper epigastric pain', 'nausea', 'vomiting']
+, duration: 3 days
+
+History (on Open questioning): info1: The patient describes a sharp, stabbing pain in the left upper abdomen that started 3 days ago.
+, info2: The pain occasionally radiates to the right scapular area or the back.
+, info3: It has been worsening progressively and is now severe.
+, info4: She also reports experiencing nausea and has vomited a couple of times since the pain started.
+, info5: Mentions that she feels some temporary relief when leaning forward or sitting up.
+, info6: Pain becomes markedly worse after eating, especially if it's a fatty meal.
+
+History (When asked directly): info1: Admits to consuming alcohol regularly, including a heavy drinking session a few days prior to symptom onset.
+, info2: Denies recent travel or any changes in medication.
+, info3: Also complains of feeling feverish but hasn't measured her temperature.
+, info4: Denies any changes in urine color but mentions her stools have been lighter than usual.
+, info5: No significant weight loss reported.
+
+Family History: No family history of pancreatic diseases. Mother has type 2 diabetes.
+
+Past Medical History: No known history of gallstones or previous episodes of pancreatitis.
+
+Drug History: No regular medications. Occasionally takes over-the-counter painkillers for headaches.
+
+Social History: Alcohol use: Regular alcohol consumption, including spirits and beer.
+, Smoking: Non-smoker
+, Diet: High-fat diet
+
+Allergies: No known drug allergies.",3.0,1.0,2.0,acute abdomen is urgent to emergent,2.0,เปลี่ยนตาม,1.0,1,1.0
+myofascial pain syndrome,"Demographic: Gender: female
+, Age: 43
+
+Chief complaint: symptom: back pain
+, characteristics: dull ache
+, location: mid-back and shoulders
+, duration: more than 3 months
+, aggravating_factors: movement
+
+History (on Open questioning): info1: The patient describes a persistent dull ache in her mid-back and shoulders.
+, info2: She mentions the pain has been ongoing for more than three months now.
+, info3: The pain seems to worsen with movement, and sometimes radiates to her shoulders.
+, info4: Sitting for long periods at her desk job tends to aggravate the pain.
+, info5: She hasn't noted any specific injury or incident that started the pain.
+
+History (When asked directly): info1: Reports no recent falls or injuries.
+, info2: No numbness or tingling sensations in the limbs.
+, info3: Pain does not improve with rest.
+, info4: Over-the-counter pain medications provide minimal relief.
+, info5: She describes 'knots' in her back muscles that are particularly sensitive.
+, info6: No associated fever, weight loss, or other systemic symptoms.
+
+Family History: Non-contributory
+
+Past Medical History: Otherwise healthy, no chronic illnesses
+
+Drug History: Occasionally takes ibuprofen for pain, with little relief.
+
+Social History: Occupational: Works a desk job, with long hours sitting.
+, Habits: Non-smoker, occasional alcohol consumption, no recreational drugs.
+, Exercise: Admits to a sedentary lifestyle, with minimal physical activity.",4.0,4.0,0.0,,4.0,คิดว่าควรเจอ orthopedist ซักครั้ง เพื่อปรับยา pain killers +- ส่ง rehab,4.0,4,0.0
+migraine,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom: headache
+, characteristics: unilateral, pulsating quality, worsens with routine physical activity
+, duration: since morning
+
+History (on Open questioning): info1: The patient complains of a headache that started in the morning and has persisted for several hours.
+, info2: She describes the pain as throbbing and pulsating, primarily on one side of the head, but it can sometimes switch sides.
+, info3: The headache intensity increases with physical activity or moving around.
+, info4: She reports sensitivity to light and sound, seeking a dark and quiet room.
+, info5: Denies any nausea but mentions slight loss of appetite due to discomfort.
+
+History (When asked directly): info1: She admits to a history of similar headaches in the past, occurring a few times a month.
+, info2: Noticed that skipping her morning coffee can sometimes trigger these headaches.
+, info3: Denies recent fever, stiff neck, rash, or any other systemic symptoms.
+, info4: No recent changes in vision, speech, strength, or sensation.
+, info5: Mentions that stress and certain foods might have triggered headaches in the past.
+
+Family History: Mother also suffers from similar types of headaches.
+
+Past Medical History: Diagnosed with migraines in her early twenties.
+
+Drug History: Occasionally uses over-the-counter ibuprofen for headaches, which provides partial relief.
+
+Social History: Caffeine intake: 1 cup of coffee daily, but did not have any today
+, Alcohol: social drinker, no alcohol intake recently
+, Smoking: non-smoker
+, Stress level: High, due to work deadlines
+
+Allergies: No known drug allergies",4.0,3.0,1.0,,4.0,เป็น migraine อยู่เดิม อาการเหมือนๆเดิม คิดว่ากินยา พักสิ่งกระตุ้น ดูอาการที่บ้านก่อนได้,4.0,4,0.0
+glaucoma,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: symptoms: ['blurry vision in one eye', 'eye redness', 'glare', 'seeing halos around lights']
+, duration: over the past few hours to days
+
+History (on Open questioning): info1: The patient reports that her vision in her right eye started to blur 'out of nowhere' a few days ago.
+, info2: She noticed her eye appeared red and slightly painful when looking in the mirror.
+, info3: At night, lights seem too bright and she sees rainbow-colored circles around them.
+, info4: The symptoms have gradually worsened.
+, info5: She tried over-the-counter eye drops which did not improve her symptoms.
+
+History (When asked directly): info1: Vision loss seems to be confined to the right eye.
+, info2: Describes the pain as more of an ache, 'like pressure behind my eye'.
+, info3: No recent head injury or trauma.
+, info4: No significant changes in weight, appetite, or headache pattern.
+, info5: No history of similar episodes in the past.
+, info6: Admits to occasional floaters but never complained of halos or glare before.
+
+Family History: Mother had 'high pressure in her eyes' treated in her late sixties.
+
+Past Medical History: Hypertension controlled with medication, otherwise unremarkable.
+
+Drug History: Hydrochlorothiazide
+
+Social History: Retired teacher, non-smoker, occasional alcohol intake, lives alone.
+
+Allergies: No known drug allergies",1.0,2.0,1.0,,2.0,ภาวะฉุกเฉินทางตา มาช้าตาบอดได้,1.0,1,1.0
+hip joint bursitis,"Demographic: Gender: female
+, Age: 43
+
+Chief complaint: symptom: buttock, hip, and thigh pain
+, duration: a few days to weeks
+
+History (on Open questioning): info1: The patient describes a gradual onset of pain located around the buttock, hip, and extending to the thigh.
+, info2: Mentions that the pain seems to intensify when moving, especially when getting up from a sitting position.
+, info3: She cannot pinpoint any specific injury or event that started the discomfort, but she has been more active lately with a new exercise routine.
+, info4: The pain is a dull ache most of the time but can be sharp with certain movements.
+, info5: She has tried over-the-counter pain relief with minimal improvement.
+
+History (When asked directly): info1: She feels relief from the pain when she lies down or rests.
+, info2: The pain is worse at night, affecting her sleep.
+, info3: No associated numbness, tingling, or weakness in the legs.
+, info4: She has not experienced fever, weight loss, or changes in bowel or bladder habits.
+, info5: She has been using a heating pad, which provides temporary relief.
+
+Family History: No significant family history.
+
+Past Medical History: History of lower back pain.
+
+Drug History: Occasionally takes NSAIDs for pain.
+
+Social History: Occupation: office worker
+, Activity level: moderately active, recently started a new exercise program
+, Smoking: non-smoker
+, Alcohol: social drinker
+
+Allergies: NKDA",4.0,3.0,1.0,,3.0,both are valid,4.0,3,1.0
+labyrinthitis,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: dizziness and difficulty maintaining balance
+, duration: more than 3 days
+
+History (on Open questioning): info1: The patient reports feeling unsteady and having a spinning sensation that persists for hours.
+, info2: The dizziness and instability make it difficult to perform daily activities.
+, info3: Symptoms seemed to have started somewhat suddenly, worsening over the first few hours.
+, info4: She also mentions a constant buzzing sound in her ears, making it hard to concentrate.
+
+History (When asked directly): info1: The patient confirms the dizziness feels like either she is spinning or the room is spinning around her.
+, info2: She denies any recent upper respiratory infection symptoms prior to the onset.
+, info3: No significant nausea or vomiting, but feels nauseated when the dizziness is at its worst.
+, info4: Denies any history of similar episodes in the past.
+, info5: No recent head injury or trauma.
+, info6: She mentions that lying still in a dark room seems to help a little.
+
+Family History: Non-contributory
+
+Past Medical History: Generally healthy with no chronic illnesses
+
+Drug History: No regular medications
+
+Social History: info1: Non-smoker
+, info2: Occasional alcohol, social drinker
+, info3: Works as a graphic designer, spends long hours in front of the computer
+
+Allergies: NKDA",4.0,3.0,1.0,,3.0,both are valid,4.0,3,1.0
+gut obstruction,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: main_symptoms: Abdominal distention, Acute Periumbilical Pain
+, auxiliary_symptoms: Nausea, vomiting
+, additional_info: Intermittent cramping abdominal pain, pain increases after eating, history of abdominal surgery
+
+History (on Open questioning): info1: The patient reports increasing abdominal distention and discomfort over the last 48 hours.
+, info2: She describes an acute onset of periumbilical pain that comes and goes but has become more constant.
+, info3: The pain is described as cramping and twisting in nature.
+, info4: She has had several episodes of nausea followed by vomiting, which does not relieve her pain.
+, info5: Eating seems to exacerbate the pain and discomfort.
+
+History (When asked directly): info1: The patient confirms she has had a similar but less intense episode a few months ago, which resolved spontaneously.
+, info2: She underwent abdominal surgery 10 years ago, details unclear but mentioned it might have been related to her 'gallbladder'.
+, info3: No recent changes in bowel habits but notes she has not had a bowel movement for the last 2 days.
+, info4: Denies any recent travel, changes in diet, or new medications.
+, info5: Denies fever, urinary symptoms, or vaginal discharge.
+
+Family History: Non-contributory
+
+Past Medical History: Hypertension, Previous abdominal surgery (gallbladder removal)
+
+Drug History: Amlodipine
+
+Social History: Non-smoker, occasional alcohol use, lives alone, retired teacher.
+
+Allergies: Penicillin",2.0,1.0,1.0,,1.0,both are valid,2.0,1,1.0
+functional diarrhea,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: frequent bowel movements but not watery
+, duration: over 6 months
+
+History (on Open questioning): info1: The patient describes a long history of having to go to the bathroom more often than seems normal.
+, info2: She notes an urgency to defecate and feels relief after doing so.
+, info3: There's no presence of blood in the stool.
+, info4: This condition has been happening for over six months now, with no specific time of day being worse.
+, info5: She hasn't noticed any specific foods that trigger her symptoms but says stress tends to make it worse.
+
+History (When asked directly): info1: She denies any recent travel history.
+, info2: No family history of inflammatory bowel diseases or colon cancer.
+, info3: No significant weight loss.
+, info4: She has noticed no correlation with menstrual periods.
+, info5: Denies fever, vomiting, or significant abdominal pain.
+
+Family History: Non-contributory
+
+Past Medical History: History of irritable bowel syndrome (IBS) diagnosed 5 years ago.
+
+Drug History: Occasional use of over-the-counter loperamide during periods of severe symptoms.
+
+Social History: smoking: Non-smoker
+, alcohol: Occasional social drinker
+, occupation: High school teacher
+, stress_level: Reports high levels of occupational stress
+
+Allergies: No known drug allergies",4.0,3.0,1.0,,3.0,อาการเป็นมานานหลายเดือน host ดี ไม่มี urgent sign and symptoms คิดว่ารอพบ gastroenterologist ตามปกติ triage 4 ได้,4.0,3,1.0
+gastritis,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: acute left upper epigastric pain
+, characteristics: sharp, tight sensation
+
+History (on Open questioning): info1: The patient reports a sharp and tight sensation in the left upper part of her abdomen for the past week.
+, info2: The pain worsens after eating, especially with spicy or acidic foods.
+, info3: She describes the sensation as a burning or gnawing pain.
+, info4: The patient mentions that her meals are irregular due to her busy schedule.
+, info5: She also experiences bloating and a feeling of indigestion.
+
+History (When asked directly): info1: The patient admits to increased stress at work, which often leads to skipping meals or eating late at night.
+, info2: The pain sometimes wakes her up at night.
+, info3: Over-the-counter antacids provide minimal relief.
+, info4: No vomiting, but occasionally she feels nauseous.
+, info5: No recent weight loss, changes in bowel habit, or blood in stool.
+, info6: Denies alcohol use but has been drinking more coffee than usual.
+
+Family History: No known family history of gastrointestinal diseases.
+
+Past Medical History: No previous episodes. No chronic illnesses.
+
+Drug History: current_medication: Occasional antacids
+, allergies: No known drug allergies
+
+Social History: Occupation: Accountant with long work hours
+, Diet: Irregular, often fast food
+, Alcohol: Occasional social drinker
+, Smoking: Non-smoker",4.0,3.0,1.0,,4.0,triage ใหม่เป็น 3-4,3.0,3,1.0
+foreign body,"Demographic: Gender: female
+, Age: 2 years
+
+Chief complaint: symptom: ear pain
+, duration: since this morning
+, detail: Mother noticed the child was poking her ear with a small toy piece
+
+History (on Open questioning): info1: The child has been irritable since the morning.
+, info2: The mother noticed her daughter was playing with small pieces of a toy earlier.
+, info3: She started crying and touching her ear frequently after playing.
+, info4: No previous history of similar episodes.
+, info5: No recent fever or cold.
+
+History (When asked directly): info1: The child has not been pulling at her ears or showing signs of discomfort prior to this incident.
+, info2: She has not had any discharge from the ear.
+, info3: No reported difficulties in hearing.
+, info4: This is the first time she has inserted something into her ear.
+, info5: No known allergies.
+
+Family History: Non-contributory
+
+Past Medical History: No significant medical history.
+
+Drug History: No regular medications.
+
+Social History: info1: Lives at home with her parents and one older sibling.
+, info2: No smokers in the household.
+, info3: Fully immunized for age.
+
+Allergies: No known drug allergies",3.0,1.0,2.0,trauma is urgent to emergency,2.0,กดผิด,1.0,1,1.0
+symptomatic gallstone,"Demographic: Gender: female
+, Age: 42
+
+Chief complaint: Symptom: Acute Right Upper Quadrant abdominal pain
+, Associated symptoms: nausea and vomiting
+, Pain character: Colicky, radiating to right shoulder or back, worsening after fatty meals
+, Duration: Last 2 hours, with episodes occurring intermittently over the past 6 months
+
+History (on Open questioning): info1: The patient describes the pain as severe, localized to the right upper quadrant of the abdomen.
+, info2: She notes that the pain often starts a few hours after eating, especially after a fatty meal.
+, info3: There have been similar, albeit less severe, episodes over the past six months, but today’s episode is the worst.
+, info4: The pain is described as 'coming and going', lasting more than 45 minutes at a time.
+, info5: She also reports experiencing nausea and occasional vomiting during these painful episodes.
+
+History (When asked directly): info1: No changes in color of urine or stool.
+, info2: Denies any recent weight loss.
+, info3: No fever or chills accompanying the pain.
+, info4: No previous surgeries.
+, info5: Denies jaundice.
+, info6: The pain does not improve with any specific position or activity.
+, info7: No history of similar symptoms in the family.
+
+Family History: No significant family history of gallstones or gallbladder disease.
+
+Past Medical History: Hypothyroidism.
+
+Drug History: Current medications: Levothyroxine
+
+Social History: Lifestyle: Sedentary lifestyle
+, Diet: High-fat diet
+, Alcohol: Social drinker, occasional
+, Smoking: Non-smoker
+
+Allergies: No known drug allergies",4.0,3.0,1.0,,3.0,รอตรวจกับ Sx หรือ GI ตามปกติได้ Triage 4,4.0,3,1.0
+vestibular neuritis,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom: dizziness, difficulty in balancing, sensation of room spinning
+, duration: started a few hours ago, lasted for more than 3 days
+
+History (on Open questioning): info1: The patient reports that she woke up three days ago with a spinning sensation in the room.
+, info2: She also mentioned having difficulty maintaining her balance and feels like she might fall over when she tries to stand up.
+, info3: The symptoms seem to worsen with head movements.
+, info4: She has not experienced any hearing loss or ringing in her ears.
+, info5: There was no prior upper respiratory infection symptoms.
+
+History (When asked directly): info1: Denies any recent head injury or trauma.
+, info2: No history of similar episodes in the past.
+, info3: She mentions that she feels nauseous and has vomited a couple of times since the symptoms started.
+, info4: No headache, neck stiffness, or photophobia.
+, info5: She has tried over-the-counter motion sickness medication, but it didn’t help.
+, info6: Symptoms persist throughout the day without improvement.
+
+Family History: Non-contributory
+
+Past Medical History: No known past medical issues.
+
+Drug History: No regular medications.
+
+Social History: info1: Works as a graphic designer.
+, info2: Non-smoker, occasional alcohol consumption, denies recreational drug use.
+
+Allergies: NKDA",3.0,1.0,2.0,,2.0,เปลี่ยนตาม,1.0,1,1.0
+porphyria,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: Primary: severe abdominal pain
+, Additional_symptoms: ['dark urine, similar to coke color', 'itchy raised rash on sun-exposed areas', 'tightness in chest']
+
+History (on Open questioning): info1: The patient presents with a sudden onset of severe abdominal pain that started two days ago.
+, info2: She describes the pain as sharp and cramping, non-localizing around her abdomen.
+, info3: The pain does not improve with eating, bowel movements, or changing positions.
+, info4: She has noticed her urine turning a much darker color than usual since the pain started.
+, info5: Reports developing painful, itchy rashes on areas exposed to sunlight, especially on her hands and face.
+
+History (When asked directly): info1: Denies recent changes in diet, medication or alcohol consumption.
+, info2: No history of gallstones or similar abdominal pain episodes in the past.
+, info3: Her menstrual cycles are regular, denies any chance of being pregnant.
+, info4: Has not experienced any vomiting but feels slightly nauseated.
+, info5: She has not noticed any changes in her bowel movements.
+, info6: The chest tightness occurs intermittently, no relation to the abdominal pain or rash.
+
+Family History: A cousin was diagnosed with some type of blood disorder, details unclear.
+
+Past Medical History: No chronic illnesses or previous hospitalizations.
+
+Drug History: Occasionally takes NSAIDs for headache.
+
+Social History: Occupation: Graphic designer
+, Lifestyle: Non-smoker, drinks socially, recently started a vegan diet
+, Hobbies: Enjoys hiking and outdoor activities
+
+Allergies: No known drug allergies.",2.0,1.0,1.0,,2.0,เปลี่ยนตาม,1.0,1,1.0
+pneumonia,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: symptoms: ['cough', 'fatigue', 'fever']
+, duration: since last week
+
+History (on Open questioning): info1: The patient reports a persistent cough that started a week ago.
+, info2: The cough is productive, with yellowish sputum.
+, info3: She mentions feeling unusually tired and having to stop and rest while doing her daily activities.
+, info4: Reports high fever for the past few days, which seems to get worse at night.
+, info5: She initially thought she just caught a cold, but she hasn't gotten any better.
+
+History (When asked directly): info1: She describes experiencing shortness of breath, especially when moving around.
+, info2: Occasional sharp chest pain that worsens with deep breaths.
+, info3: No recent travels or contact with sick individuals.
+, info4: She has not taken any over-the-counter medications for these symptoms.
+, info5: Denies any history of similar symptoms in the past.
+, info6: No weight loss, night sweats, or loss of appetite.
+, info7: She lives alone, her appetite has decreased slightly since she started feeling unwell.
+
+Family History: No known history of chronic diseases.
+
+Past Medical History: Hypertension controlled with medication.
+
+Drug History: Amlodipine for hypertension
+
+Social History: Non-smoker, occasional alcohol consumption, retired teacher who lives alone.
+
+Allergies: No known drug allergies",3.0,1.0,2.0,,2.0,เปลี่ยนตาม,1.0,1,1.0
+polycystic kidney disease & hydronephrosis,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptoms: ['side abdominal pain', 'frequent headaches', 'bloody urine', 'passing kidney stones', 'chronic kidney failure']
+, duration: intermittently over the past few weeks to months
+
+History (on Open questioning): info1: The patient mentions experiencing a constant, dull ache on her side that sometimes becomes sharp.
+, info2: She has suffered from headaches more frequently than usual, which she initially attributed to stress.
+, info3: Notices blood in her urine, describing it as pink, red, or cola-colored.
+, info4: She recalls passing what appeared to be stones in her urine.
+, info5: Expresses a concern over her decreasing urine output and mentions feeling fatigued more regularly.
+
+History (When asked directly): info1: Confirms that the pain sometimes radiates to her lower abdomen and back.
+, info2: Has noticed an increase in the frequency of urinary tract infections.
+, info3: States that her blood pressure has been higher than usual in recent readings.
+, info4: Admits to a family history of similar symptoms and conditions.
+, info5: Mentions that her appetite has decreased and she's unintentionally lost weight over the past few months.
+
+Family History: Mother had polycystic kidney disease.
+
+Past Medical History: Hypertension, Type 2 Diabetes Mellitus
+
+Drug History: Losartan, Metformin
+
+Social History: Non-smoker, occasional alcohol drinker. Works as a school teacher.",3.0,4.0,1.0,,4.0,both are valid,3.0,3,1.0
+pheochromocytoma,"Demographic: Gender: female
+, Age: 37
+
+Chief complaint: symptom: palpitations
+, characteristics: High blood pressure during episodes, trembling hands, flushing, episodic nature, rapid and forceful heartbeat
+
+History (on Open questioning): info1: The patient describes sudden, episodic bouts of feeling her heart racing, which are associated with feeling very anxious and sweaty.
+, info2: She notices her hands trembling and her face feeling flushed during these episodes.
+, info3: Reports that these episodes seem to come out of nowhere and are not triggered by physical activity or stress.
+, info4: Mentions that during these episodes, she feels a sense of doom, like something terrible is going to happen.
+, info5: The episodes vary in duration but typically last from 10 to 30 minutes.
+
+History (When asked directly): info1: She has noticed that she has had to urinate more frequently during these episodes.
+, info2: Admits to experiencing severe headaches that coincide with the palpitations.
+, info3: Says that her blood pressure was measured to be very high during a recent episode.
+, info4: The symptoms resolve on their own without intervention.
+, info5: No history of thyroid disease, no use of stimulant drugs like caffeine or illicit drugs.
+
+Family History: Mother has hypertension. No family history of other endocrine or genetic disorders.
+
+Past Medical History: History of non-specific headaches, previously diagnosed as migraines. No diabetes, no prior surgeries.
+
+Drug History: Occasional ibuprofen for headaches.
+
+Social History: info1: Non-smoker
+, info2: Occasional alcohol, no binge drinking
+, info3: Software developer, high-stress job
+, info4: No recreational drug use
+
+Allergies: NKDA",2.0,3.0,1.0,,3.0,"ปวดศีรษะ severe, ใจสั่น, ความดันสูง คิดว่าไปเร็วน่าจะเหมาะสมกว่า triage 1-2",2.0,2,1.0
+perilymph fistula,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom1: dizziness
+, symptom2: difficulty balancing
+, symptom3: intermittent hearing loss/ear fullness
+, symptom4: sensitivity to bright light and loud noises
+, duration: more than 3 days
+
+History (on Open questioning): info1: The patient describes a sensation of unsteadiness that has been persistent for over three days.
+, info2: She notices a significant difficulty in balancing, fearing she might fall, which confines her mostly indoors.
+, info3: She reports episodes of her ears feeling full, accompanied by an inability to hear clearly. These episodes come and go.
+, info4: There's a noticeable increase in her symptoms when she is exposed to bright lights or loud sounds.
+, info5: She cannot pinpoint exactly when the symptoms started but recalls feeling slightly off balance earlier in the week before the symptoms fully developed.
+
+History (When asked directly): info1: Admits to a feeling of pressure inside her ear, describing it as 'tightness or fullness'.
+, info2: Denies any recent upper respiratory infections or head injuries.
+, info3: No history of vertigo or similar episodes in the past.
+, info4: Denies any tinnitus, but confirms fluctuating hearing loss.
+, info5: The symptoms seemed to have started somewhat suddenly, escalating over a few hours.
+
+Family History: Non-contributory
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications
+
+Social History: occupation: Graphic designer
+, hobbies: Enjoys outdoor activities, recently took up rock climbing
+, substance use: Non-smoker, occasional alcohol consumption, no recreational drug use
+
+Allergies: NKDA",4.0,3.0,1.0,,3.0,คิดว่ารอพบ ENT ตามปกติได้ triage 4,4.0,3,1.0
+sjs,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: widespread rash, skin peeling, lesions in the mouth and on the ocular mucosa
+, duration: 1 week
+
+History (on Open questioning): info1: The patient reports the sudden onset of a painful rash that started on her trunk and spread to her face, arms, and legs.
+, info2: She notices that the rash blanches with pressure.
+, info3: Over the past few days, she's experienced skin peeling and pain.
+, info4: She also mentions having painful lesions in her mouth that have made eating difficult.
+, info5: She has experienced irritation in her eyes, described as being similar to having sand in her eyes.
+
+History (When asked directly): info1: The patient reports that the symptoms started about a week after starting a new medication prescribed for a recent diagnosis of epilepsy.
+, info2: She has had a low-grade fever and feels generally unwell.
+, info3: Admits to feeling more tired than usual.
+, info4: No recent travel or contact with sick individuals.
+, info5: Denies any history of similar skin reactions in the past.
+
+Family History: Non-contributory
+
+Past Medical History: Newly diagnosed with epilepsy
+
+Drug History: current_medication: Started on Carbamazepine 1 month ago
+, other_medication: No other medications
+
+Social History: occupation: High school teacher
+, lifestyle: Non-smoker, occasional alcohol, no recreational drugs
+
+Allergies: No known drug allergies (NKDA) prior to this event",2.0,1.0,1.0,skin emergency,1.0,both are valid,2.0,1,1.0
+right lung pneumonia,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: symptom1: acute right upper abdominal pain
+, symptom2: difficulty breathing
+, symptom3: fever
+, symptom4: cough with phlegm
+, duration: since 3 days ago
+
+History (on Open questioning): info1: The patient started feeling unwell 3 days ago with a cough and feeling feverish.
+, info2: The cough has gotten progressively worse and now she brings up yellowish phlegm.
+, info3: She also noticed shortness of breath, especially when trying to walk around her house.
+, info4: Two days into these symptoms, she developed a sharp pain on the right side of her upper abdomen.
+, info5: The pain gets worse with deep breaths.
+
+History (When asked directly): info1: Denies any recent travels or sick contacts.
+, info2: She has not eaten anything out of the ordinary that could explain her abdominal pain.
+, info3: No history of vomiting or diarrhea.
+, info4: The patient notes that lying on her right side seems to ease the abdominal pain slightly.
+, info5: No change in bowel habits or urinary symptoms.
+, info6: She has been trying to drink plenty of fluids and rest since the symptoms started.
+, info7: She tried taking paracetamol for the fever and pain with minor relief.
+
+Family History: No known family history of lung diseases. Mother had diabetes.
+
+Past Medical History: Hypertension, no history of surgeries
+
+Drug History: Hydrochlorothiazide, occasionally uses over-the-counter ibuprofen for muscle aches
+
+Social History: smoking: non-smoker
+, alcohol: rarely drinks alcohol
+, drug use: no recreational drug use
+, living situation: lives alone
+, occupation: retired school teacher",3.0,1.0,2.0,,2.0,เปลี่ยนตาม,1.0,1,1.0
+pulmonary tb,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptoms: ['gradual onset of dyspnea', 'unintentional weight loss', 'fever for more than 2 weeks', 'cough with sputum', 'chronic cough lasting more than 2 weeks']
+
+History (on Open questioning): info1: The patient reports a progressive difficulty in breathing over the past few months.
+, info2: She has noticed a significant loss in weight even though there hasn't been a conscious change in her diet or appetite.
+, info3: The patient also mentions having a fever that comes and goes, often feeling hot at night.
+, info4: She initially thought the cough was due to a common cold, but it has persisted for more than two weeks and now produces sputum.
+, info5: Sometimes the cough is so severe that it causes her to feel very tired and weak.
+
+History (When asked directly): info1: The patient admits to night sweats, often having to change her clothes.
+, info2: She confirms the cough is more pronounced in the morning.
+, info3: The sputum is sometimes streaked with blood, but this is infrequent.
+, info4: She has not traveled recently or been in contact with anyone known to have tuberculosis.
+, info5: Work environment is crowded, and ventilation is poor.
+, info6: Denies smoking cigarettes but mentions passive smoke exposure.
+, info7: No known contact with animals or sick individuals, except for a colleague who had a 'bad cough' a few months ago.
+
+Family History: No known family history of tuberculosis or chronic respiratory diseases.
+
+Past Medical History: No significant past medical history, vaccinations up to date.
+
+Drug History: No regular medications. Occasionally uses over-the-counter cold remedies.
+
+Social History: occupation: office worker
+, smoking_status: non-smoker
+, alcohol_consumption: occasional social drinker
+, drug_use: denies illegal drug use",4.0,3.0,1.0,,3.0,both are valid,4.0,3,1.0
+pelvic inflammatory disease,"Demographic: Gender: female
+, Age: 27
+
+Chief complaint: symptoms: ['abdominal pain (acute left, suprapubic & right lower pain)', 'nausea', 'vomiting', 'abnormal vaginal discharge (smelly, itchy, green, yellow)', 'intermittent cramping abdominal pain', 'fever']
+
+History (on Open questioning): info1: The patient has been feeling unwell for the past week.
+, info2: She reports a progressive pain in her lower abdomen, which is sharp and intermittent.
+, info3: The pain seems to get worse with movement and does not improve with over-the-counter pain medications.
+, info4: She has noticed an increase in vaginal discharge, which has an unusual smell and color.
+, info5: The patient also mentions a general feeling of malaise and has had episodes of nausea and vomiting.
+
+History (When asked directly): info1: The patient admits the pain is significantly affecting her daily activities.
+, info2: She is sexually active with multiple partners and does not always use protection.
+, info3: She denies any recent travel or change in dietary habits.
+, info4: Her last menstrual period was 2 weeks ago and was normal.
+, info5: She has not experienced similar symptoms in the past.
+, info6: No known drug allergies.
+
+Family History: No significant family history.
+
+Past Medical History: No chronic illnesses. History of urinary tract infections.
+
+Drug History: Occasional ibuprofen for pain.
+
+Social History: info1: Student and part-time worker.
+, info2: Smokes cigarettes occasionally.
+, info3: Social alcohol consumption.
+, info4: Multiple sexual partners, sometimes without the use of protection.",3.0,2.0,1.0,acute abd,2.0,both are valid,3.0,2,1.0
+perforated tm,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: Symptoms: ['ear pain', 'reduced hearing', 'immediate sharp pain then subsides', 'buzzing sound in ear']
+, Duration: since last night
+
+History (on Open questioning): info1: The patient complains of an ear pain that started suddenly last night.
+, info2: She noticed a sharp pain in her left ear that quickly subsided but was followed by a sensation of reduced hearing.
+, info3: Mentions a constant buzzing sound in the same ear.
+, info4: No similar episodes in the past.
+, info5: Denies any recent upper respiratory infections or colds.
+
+History (When asked directly): info1: The pain was immediate and sharp, making her wince, but it quickly faded to a dull ache.
+, info2: She cannot recall any recent trauma to the ear but mentions she was cleaning her ears aggressively with a cotton bud last night.
+, info3: No discharge from the ear, but feels like her ear is 'blocked'.
+, info4: Denies any fever or systemic symptoms.
+, info5: No history of swimming or water entry into the ear prior to the pain.
+
+Family History: Non-contributory
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications.
+
+Social History: Occupation: Graphic designer
+, Lifestyle: Non-smoker, occasional alcohol, lives alone
+
+Allergies: No known drug allergies.",1.0,2.0,1.0,,2.0,both are valid,1.0,1,1.0
+earwax,"Demographic: Gender: Female
+, Age: 35
+
+Chief complaint: symptom: ear pain and hearing reduction
+, duration: 1 week
+
+History (on Open questioning): info1: The patient complains of discomfort and a feeling of fullness in her right ear.
+, info2: She mentions hearing has gradually worsened over the past week.
+, info3: No recent colds, upper respiratory infections, or fevers.
+, info4: Denies any discharge or fluid coming from the ear.
+
+History (When asked directly): info1: Admits to using cotton buds daily to clean inside her ears.
+, info2: Mentions occasionally pushing the cotton bud 'a bit too far' and feeling discomfort.
+, info3: No history of ear pain or hearing problems before this incident.
+, info4: Denies any ringing in the ears or dizziness.
+
+Family History: Non-contributory
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications.
+
+Social History: info1: Works as a teacher.
+, info2: Non-smoker, occasional alcohol.
+
+Allergies: No known drug allergies.",4.0,4.0,0.0,,4.0,"คิดว่าควรได้รับการวินิจฉัยโดยการส่องหูซักครั้ง เผื่อเป็น FB 
+: triage 4",4.0,4,0.0
+cushing,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptom1: Generalized weakness
+, symptom2: Weight gain
+, symptom3: Purple stretch marks on abdomen
+, duration: Progressively worsening over the past year
+
+History (on Open questioning): info1: The patient reports a gradual increase in fatigue and weakness over the past year.
+, info2: Noticed significant weight gain despite no major changes in diet or exercise habits.
+, info3: Development of purple, wide stretch marks on her abdomen which she has not noticed before.
+, info4: She feels her face looks more 'round' lately and has noticed increased hair growth on her face and body.
+, info5: Menstrual cycles have become irregular.
+
+History (When asked directly): info1: Weakness is more pronounced in her proximal muscles, like getting up from a sitting position or climbing stairs.
+, info2: Feels easily bruised, with bruises appearing without significant trauma.
+, info3: Noticed some mood swings, feeling depressed at times without a clear reason.
+, info4: Using herbal medications regularly for health maintenance, cannot recall specific names.
+, info5: No recent illnesses or significant weight loss.
+
+Family History: No known family history of endocrine disorders.
+
+Past Medical History: No prior diagnosis of chronic illnesses.
+
+Drug History: Uses over-the-counter herbal supplements, specifics unknown.
+
+Social History: info1: Non-smoker
+, info2: Occasional alcohol
+, info3: No recreational drug use
+, info4: Office worker, leads a sedentary lifestyle
+
+Allergies: No known drug allergies.",4.0,1.0,3.0,,4.0,อ่อนแรงทั่วร่างกายมากขึ้นเรื่อยๆมาเป็นปี + ไม่มีอาการเร่งด่วนอื่นๆ + sign and symptom + positive risk of cushing disease/syndrome คิดว่ามาตรวจกับ endocrinologist ตามปกติได้ triage 4,4.0,4,0.0
+cruciated ligament injury & medial meniscus tears,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptom: knee pain and swelling
+, duration: 3 days ago
+
+History (on Open questioning): info1: The patient reports sudden onset of right knee pain that started during a football match.
+, info2: She describes a twisting movement with her foot planted when she felt a 'pop' in her knee followed by immediate swelling.
+, info3: She was unable to continue playing due to the pain and swelling.
+, info4: The knee felt ' wobbly' and she has been having difficulty bearing weight on it since the injury.
+
+History (When asked directly): info1: The pain is localized mainly to the medial aspect of the knee.
+, info2: She notes that the swelling appeared almost immediately after the injury.
+, info3: No previous history of similar knee pain or injury.
+, info4: Has been using ice packs and over-the-counter anti-inflammatory medications with little relief.
+, info5: Denies any locking or clicking sensation but describes a sensation of instability when trying to walk.
+
+Family History: No known family history of knee problems.
+
+Past Medical History: No significant past medical history.
+
+Drug History: Occasional use of ibuprofen. No regular medications.
+
+Social History: Occupation: Accountant
+, Hobbies: Plays football on a local team weekly.
+, Smoking: Non-smoker
+, Alcohol: Social drinker",3.0,1.0,2.0,,3.0,อายุน้อย เป็นมา 3 วัน ไม่มี sign and symptoms ของ fracture ชัดเจน คิดว่า triage 2-3,3.0,3,0.0
+distended bladder,"Demographic: Gender: male
+, Age: 72
+
+Chief complaint: symptom1: severe lower back pain
+, symptom2: inability to pass urine
+, symptom3: presence of smooth-edged abdominal mass
+, duration: within the past week
+
+History (on Open questioning): info1: The patient has been experiencing increasing lower abdominal pain over the past week.
+, info2: He mentions a growing sense of pressure and fullness in his lower abdomen.
+, info3: He has found it progressively difficult to initiate urination, despite feeling the need to go.
+, info4: No changes in bowel habits have been noted.
+, info5: No fever, nausea, or vomiting.
+
+History (When asked directly): info1: The patient admits to less fluid intake because of the difficulty urinating.
+, info2: Denies any recent trauma or injuries to the abdomen or back.
+, info3: No history of similar symptoms in the past.
+, info4: Reports some unintentional weight loss over the past few months, but hasn’t paid much attention to it.
+, info5: Denies any burning sensation or pain during the few times he has been able to urinate.
+
+Family History: Father had prostate cancer diagnosed at age 75. No other significant family history.
+
+Past Medical History: Hypertension, Type 2 Diabetes.
+
+Drug History: Amlodipine, Metformin
+
+Social History: info1: Retired teacher.
+, info2: Non-smoker.
+, info3: Occasional alcohol intake.
+, info4: Lives with wife.
+
+Allergies: No known drug allergies.",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+diverticulitis,"Demographic: Gender: female
+, Age: 60
+
+Chief complaint: symptom: abdominal pain, change in bowel habits, including dark stools and bloody stools
+, duration: for the past 1 week
+
+History (on Open questioning): info1: The patient has been experiencing intermittent, cramping abdominal pain for the past week.
+, info2: The pain is located on the left, suprapubic, and sometimes on the right lower part of her abdomen.
+, info3: She describes the pain as feeling 'like a twisting knot' that comes and goes, lasting for more than 45 minutes at a time.
+, info4: She also noticed a change in her bowel habits, with the stool appearing darker than usual and sometimes mixed with blood.
+, info5: The patient mentions the pain and bowel changes are new for her and have been gradually getting worse.
+
+History (When asked directly): info1: Besides the abdominal pain and change in bowel habits, she has also experienced episodes of nausea but hasn't vomited.
+, info2: She denies any recent changes in diet or medication.
+, info3: No fever or chills, but mentions feeling generally unwell.
+, info4: She has not traveled recently, and she hasn't been in contact with anyone with similar symptoms.
+, info5: No significant weight loss, but has had a decreased appetite since the onset of symptoms.
+
+Family History: Father had colorectal cancer. Mother had hypertension.
+
+Past Medical History: Hypothyroidism, osteoarthritis.
+
+Drug History: Levothyroxine, occasional NSAIDs for joint pain.
+
+Social History: Non-smoker. Occasionally drinks alcohol. Lives with her husband and is retired.
+
+Allergies: No known drug allergies.",3.0,2.0,1.0,dark stool is urgent,2.0,เปลี่ยนตาม,2.0,2,0.0
+aiha,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptoms: ['gradual development of jaundice over months/years', 'pale', 'fatigue']
+, duration: several months
+
+History (on Open questioning): info1: The patient has noticed a gradual yellowing of her skin and eyes over the past year.
+, info2: She has been feeling increasingly tired, even without exertion.
+, info3: Noticed that she looks paler than usual.
+, info4: Mentions that these symptoms have affected her ability to keep up with her daily activities.
+, info5: No pain, itching, or rash associated with the jaundice.
+
+History (When asked directly): info1: She reports some shortness of breath with exertion.
+, info2: Occasionally feels her heart is racing.
+, info3: Denies recent travel, exposure to toxins or infections.
+, info4: No significant change in weight.
+, info5: Denies any bleeding gums, unusually heavy menstrual periods, or blood in stool.
+
+Family History: No known family history of blood disorders or liver diseases.
+
+Past Medical History: Unremarkable
+
+Drug History: No regular medications
+
+Social History: Smoking: Non-smoker
+, Alcohol: Occasional social drinker
+, Drug Use: Denies recreational drug use
+
+Allergies: NKDA",3.0,2.0,1.0,,3.0,both are valid,3.0,3,0.0
+adrenal insufficiency,"Demographic: Gender: female
+, Age: 53
+
+Chief complaint: Symptoms: weight loss, fatigue, easy tiredness
+, Duration: several months
+
+History (on Open questioning): info1: The patient reports significant unintentional weight loss over the last few months, noting that her clothes have become much looser.
+, info2: She also complains of feeling easily fatigued, even with minimal physical activity.
+, info3: These symptoms have gradually worsened, and she hasn’t made any major changes to her diet or exercise routine.
+, info4: Expresses concern because she used to be able to manage her household and work responsibilities but now feels too tired to get through the day.
+, info5: Reports feeling lightheaded, especially when standing up, and has noticed her skin appears darker than usual, even in areas not exposed to the sun.
+
+History (When asked directly): info1: Acknowledges a low appetite but can't identify any specific food aversions.
+, info2: Denies vomiting, significant gastrointestinal symptoms, fever, or recent infections.
+, info3: Mentions she has been under a lot of stress at work and wonders if stress could be contributing to her symptoms.
+, info4: Has been using traditional herbal medicines for stress relief and energy for a few years but cannot recall specific names.
+, info5: No significant thirst increase or frequent urination.
+, info6: Denies use of any other medications or drugs.
+
+Family History: No known family history of autoimmune diseases or endocrine disorders.
+
+Past Medical History: No significant past medical history mentioned.
+
+Drug History: Use of traditional herbal supplements for stress and energy.
+
+Social History: Occupation: Teacher
+, Lifestyle: Non-smoker, occasional alcohol, no recreational drugs
+, Stress: Reports high levels of job-related stress",4.0,3.0,1.0,,4.0,รอตรวจกับ endocrinologist ตามปกติได้,4.0,4,0.0
+anemia,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: Symptom: palpitations and dizziness
+, Duration: over the last 2 months
+
+History (on Open questioning): info1: The patient has been feeling generally fatigued and weak.
+, info2: Notices palpitations, especially when completing household chores or climbing stairs.
+, info3: Reports episodes of dizziness, particularly when standing up quickly.
+, info4: Has experienced breathlessness with minimal exertion.
+, info5: Recently noted her skin and lips looking paler than usual.
+
+History (When asked directly): info1: Menstrual periods have been heavier over the past 6 months.
+, info2: No recent significant weight loss or gain.
+, info3: Denies chest pain, fever, or night sweats.
+, info4: No history of gastrointestinal bleeding but mentions occasional dark stools.
+, info5: No family history of bleeding disorders or anemia.
+, info6: Eats meat infrequently and struggles to maintain a balanced diet due to a busy schedule.
+
+Family History: Non-contributory
+
+Past Medical History: No previous chronic illnesses noted.
+
+Drug History: Regular use of non-steroidal anti-inflammatory drugs (NSAIDs) for menstrual cramps.
+
+Social History: Diet: Occasionally vegetarian
+, Alcohol consumption: Rare
+, Smoking: Non-smoker
+
+Allergies: No known drug allergies",3.0,4.0,1.0,,3.0,both are valid,3.0,3,0.0
+barotrauma,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: Primary Symptoms: ear pain and decreased hearing
+, Duration: since yesterday
+
+History (on Open questioning): info1: The patient reports experiencing sudden onset of ear pain and a feeling of fullness in her ears that started yesterday.
+, info2: She also noticed a significant decrease in her hearing ability shortly after the pain started.
+, info3: The symptoms started after she went on a deep diving session.
+, info4: She has never experienced anything like this before.
+, info5: No vertigo, but says that 'everything sounds muffled'.
+
+History (When asked directly): info1: Denies any discharge from the ear.
+, info2: No recent upper respiratory infections.
+, info3: She attempted to equalize her ear pressure while diving by pinching her nose and blowing but felt a sharp pain.
+, info4: No use of earplugs during the dive.
+, info5: No headaches or facial pain.
+, info6: No history of ear surgeries or chronic ear problems.
+
+Family History: No significant family history.
+
+Past Medical History: Generally healthy. No chronic medications.
+
+Drug History: No regular medications. Occasionally takes ibuprofen for headaches.
+
+Social History: Smoking: Non-smoker
+, Alcohol: Drinks socially, once or twice a month
+, Occupation: Graphic designer
+
+Allergies: NKDA",2.0,3.0,1.0,,2.0,both are valid,2.0,2,0.0
+appendicitis,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptoms: ['acute right lower abdominal pain', 'nausea', 'vomiting', 'fever']
+, duration: since last night
+
+History (on Open questioning): info1: The pain initially started around the middle of her abdomen before localizing to the right lower quadrant.
+, info2: The pain intensity has been increasing, becoming sharp and constant.
+, info3: She mentions the pain woke her up from sleep.
+, info4: She also noticed a loss of appetite since the pain started.
+
+History (When asked directly): info1: The pain is exacerbated by movement, and feels slightly relieved by laying still.
+, info2: She denies any recent travel or sick contacts.
+, info3: No previous similar episodes.
+, info4: Denies menstruation changes or urinary symptoms.
+, info5: No history of gastrointestinal issues or surgeries.
+
+Family History: Non-contributory
+
+Past Medical History: No significant medical history.
+
+Drug History: No regular medications. Takes ibuprofen prn.
+
+Social History: Smoker: No
+, Alcohol: Occasional, socially
+, Drug use: Denies
+
+Allergies: No known drug allergies",2.0,1.0,1.0,RLQ + fever = emergent,1.0,เปลี่ยนตาม,1.0,1,0.0
+alcoholic hepatitis,"Demographic: Gender: male
+, Age: 45
+
+Chief complaint: symptoms: ['gradual development of jaundice over months/years', 'regular alcohol or alcoholic beverage consumption', 'abdominal pain, specifically a gnawing pain']
+
+History (on Open questioning): info1: The patient has noticed his skin and the whites of his eyes turning yellow over the past few months.
+, info2: He admits to a long history of heavy alcohol consumption, often drinking several bottles of beer daily.
+, info3: He reports episodes of abdominal discomfort, particularly after meals, described as a persistent, gnawing pain in his upper abdomen.
+, info4: He has noticed a decrease in his appetite and unintentional weight loss.
+, info5: Mentions feeling generally weak and having less energy for daily activities.
+
+History (When asked directly): info1: Occasional nausea but denies vomiting.
+, info2: Denies recent travel or consumption of unusual foods.
+, info3: No history of blood transfusions or known exposure to hepatitis viruses.
+, info4: Admits to bouts of forgetfulness and confusion, particularly in the evenings.
+, info5: He has not sought medical advice previously for his symptoms.
+
+Family History: Has a brother with a history of liver disease. Parents are deceased, causes unknown.
+
+Past Medical History: Unremarkable, except for occasional episodes of acute gastritis.
+
+Drug History: Denies use of prescribed medication but admits to occasional over-the-counter pain relief for abdominal pain.
+
+Social History: Alcohol use: Heavy, daily consumption of beer for over 20 years.
+, Smoking: Smokes about a pack of cigarettes a week.
+, Recreational drug use: Denies use of recreational drugs.
+, Living situation: Lives alone, occasionally visits local bars.",4.0,3.0,1.0,,4.0,both are valid,4.0,4,0.0
+chronic pancreatitis & pancreatic cancer,"Demographic: Gender: male
+, Age: 55
+
+Chief complaint: symptom: chronic abdominal pain
+, character: persistent and worsening over months
+, associated symptoms: ['weight loss', 'bloating', 'jaundice']
+
+History (on Open questioning): info1: The patient describes a dull, aching pain in the upper abdomen that sometimes radiates to the back.
+, info2: He mentions the pain intensifies after eating or drinking, especially high-fat foods or alcohol.
+, info3: Reports significant unintentional weight loss over the last few months.
+, info4: He also complains of bloating and feels full soon after starting to eat.
+, info5: Noticed his skin and the whites of his eyes turning yellow.
+
+History (When asked directly): info1: Admits to consuming alcohol regularly for many years.
+, info2: Describes his stools as being oilier and lighter in color than normal.
+, info3: Occasional dark, tarry stools.
+, info4: Denies recent travel or sick contacts.
+, info5: No history of gallstones or previous gallbladder surgery.
+, info6: He has experienced similar, but milder pain episodes in the past.
+, info7: Recent diabetes diagnosis, which was surprising to him.
+
+Family History: No known family history of pancreatic diseases or cancer.
+
+Past Medical History: Chronic pancreatitis, recently diagnosed Diabetes Mellitus type 2.
+
+Drug History: Occasional over-the-counter antacids, no prescription medications.
+
+Social History: Long history of heavy alcohol consumption. Smokes 10 cigarettes a day. Works as a mechanic.",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+cirrhosis with ascites,"Demographic: Gender: female
+, Age: 59
+
+Chief complaint: Symptom: abdominal distention
+, Duration: 3 months
+, Description: progressive increase in abdominal size and discomfort
+
+History (on Open questioning): Info1: The patient reports gradually increasing abdominal size over the past three months.
+, Info2: Noticed that her clothes fit tighter around her waist.
+, Info3: Reports feeling full quickly when eating.
+, Info4: Occasional episodes of shortness of breath, especially when lying flat.
+, Info5: Mentions some leg swelling as well.
+
+History (When asked directly): Info1: Discomfort is not relieved by over-the-counter antacids.
+, Info2: Has not noticed any specific foods that worsen her symptoms.
+, Info3: Denies any recent changes in bowel habits or weight loss.
+, Info4: Mild itching all over her body.
+, Info5: No history of alcohol use or drug use.
+
+Family History: Brother has hepatitis B. No other family history of liver diseases.
+
+Past Medical History: Hypertension, Type 2 Diabetes Mellitus
+
+Drug History: Amlodipine, Metformin
+
+Social History: Alcohol: No history of alcohol use.
+, Smoking: Non-smoker
+, Occupation: Retired teacher",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+calcaneal stress fracture,"Demographic: Gender: female
+, Age: 29
+
+Chief complaint: symptom: foot pain
+, onset: started 2 days ago
+, duration: has been persisting since then
+, character: sharp, worsens with weight bearing
+
+History (on Open questioning): info1: The patient describes the pain in the heel of her foot, which started after a long day of walking during a trip.
+, info2: She initially thought the pain was due to the extensive walking, but it got worse the next day.
+, info3: The pain is mainly localized to the heel area and gets worse when she puts weight on her foot or walks.
+, info4: She denies any recent falls or injuries directly to the foot but admits to increasing her walking distance significantly over the past week.
+, info5: She has tried over-the-counter pain medications and rest, which have provided minimal relief.
+
+History (When asked directly): info1: No prior history of similar pain or diagnosed bone diseases.
+, info2: Denies any significant swelling or changes in skin color around the painful area.
+, info3: No fever or other systemic symptoms.
+, info4: She has been trying to increase her physical activity including walking and jogging over the past month.
+, info5: She wears well-fitted, supportive shoes while walking.
+
+Family History: Non-contributory
+
+Past Medical History: No chronic illnesses
+
+Drug History: Occasionally takes ibuprofen for menstrual cramps
+
+Social History: Occupation: Graphic designer
+, Hobbies: Recently took up jogging
+, Alcohol: Social drinker
+, Smoking: Non-smoker",2.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+cholangitis,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptom: acute right upper abdominal pain
+, associated symptoms: nausea, vomiting, jaundice, dark urine, high fever and chills
+
+History (on Open questioning): info1: The patient describes a severe, sharp pain in the right upper quadrant of her abdomen that started suddenly.
+, info2: She mentions the pain sometimes radiates to her right shoulder or back.
+, info3: She has been feeling feverish and notes that her skin and eyes have turned yellow.
+, info4: She reports experiencing nausea and has vomited a couple of times since the pain began.
+, info5: Notices her urine has turned dark in color.
+, info6: She mentions that these symptoms started developing over the past day.
+
+History (When asked directly): info1: She reports no recent travel.
+, info2: Denies any recent changes in diet or new medications.
+, info3: No prior history of similar symptoms.
+, info4: Denies any bowel changes such as diarrhea or constipation.
+, info5: No history of alcohol abuse.
+
+Family History: No known family history of liver or biliary diseases.
+
+Past Medical History: Denies any chronic illnesses or prior surgeries.
+
+Drug History: Reports occasional use of over-the-counter pain relievers for headaches.
+
+Social History: info1: Non-smoker.
+, info2: Occasional alcohol use.
+, info3: Works as a school teacher.
+, info4: Married with two children.",2.0,1.0,1.0,fever + RUQ --> sepsis ได้,1.0,เปลี่ยนตาม,1.0,1,0.0
+cholecystitis,"Demographic: Gender: female
+, Age: 47
+
+Chief complaint: symptom: acute right upper quadrant abdominal pain
+, associated_symptoms: ['nausea', 'vomiting', 'worsening pain post eating', 'pain radiating to the right shoulder or back', 'fever']
+
+History (on Open questioning): info1: The patient complains of sharp pain in the right upper part of her abdomen.
+, info2: She mentions the pain started a few days ago and has gradually intensified.
+, info3: The pain worsens after meals, especially fatty foods.
+, info4: She has experienced nausea and few episodes of vomiting.
+, info5: There is also a mild fever she noticed since yesterday.
+
+History (When asked directly): info1: The pain radiates to her right shoulder and back.
+, info2: She describes the pain as becoming sharply worse on taking a deep breath.
+, info3: Denies any changes in bowel movements or urine color.
+, info4: No recent travels or consumption of unfamiliar foods.
+
+Family History: No known family history of gallbladder disease.
+
+Past Medical History: Hypothyroidism.
+
+Drug History: Levothyroxine
+
+Social History: Non-smoker, occasional alcohol use. Works as a school teacher.",2.0,1.0,1.0,fever + RUQ --> sepsis ได้,1.0,เปลี่ยนตาม,1.0,1,0.0
+bronchiectasis,"Demographic: Gender: female
+, Age: 63
+
+Chief complaint: symptom1: chronic cough
+, symptom2: increasing shortness of breath on exertion (DOE)
+, symptom3: production of sputum
+, duration: over the last few years, worsening in the past 6 months
+
+History (on Open questioning): info1: The patient describes a long history of a productive cough that has gradually worsened over several years.
+, info2: She reports an increase in the amount of sputum production, and it is sometimes greenish in color.
+, info3: Notes increased difficulty with activities such as walking up stairs or doing household chores, which now leave her more breathless than before.
+, info4: She recalls several episodes of severe respiratory infections throughout her life, some requiring hospitalization.
+, info5: States that cold weather seems to exacerbate her symptoms, especially the cough and difficulty breathing.
+
+History (When asked directly): info1: She mentions having had tuberculosis in her early 40s.
+, info2: Acknowledges a history of smoking, having quit 10 years ago after a 30-year pack-a-day habit.
+, info3: Reports occasional fevers and night sweats, especially during times when her cough worsens.
+, info4: Denies recent travel, contact with sick individuals, or significant weight loss.
+, info5: No history of asthma or allergic rhinitis in her past.
+
+Family History: Mother had 'lung problems' but was never specific; father died of stroke.
+
+Past Medical History: Tuberculosis in early 40s, Hypertension.
+
+Drug History: Amlodipine for hypertension
+
+Social History: smoking: quit 10 years ago after 30 years of heavy smoking
+, alcohol: occasional social drinker
+, occupation: retired teacher
+, living conditions: lives alone in a suburban area
+
+Allergies: No known drug allergies",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+ca colon & carcinoid neoplasm,"Demographic: Gender: female
+, Age: 55
+
+Chief complaint: symptom: chronic diarrhea intermixed with episodes of constipation and bloody stools
+, weight_loss: more than 3 kg over the past 6 months
+, age_at_onset: symptoms began after the age of 50
+
+History (on Open questioning): info1: The patient describes having fluctuating bowel habits over the last 6 months, with periods of diarrhea and constipation.
+, info2: She also notes occasional bloody stools.
+, info3: She has experienced unintentional weight loss.
+, info4: Reports feeling fatigued more than usual.
+, info5: Denies any recent dietary changes or travels.
+
+History (When asked directly): info1: The diarrhea is watery, does not contain mucus, and is not painful.
+, info2: Has not taken any over-the-counter medications to manage her symptoms.
+, info3: No history of similar symptoms in the family.
+, info4: Denies fever, night sweats, or severe abdominal pain.
+, info5: Mentions that the weight loss has made her clothes noticeably looser.
+, info6: No history of smoking or alcohol use.
+
+Family History: No known family history of colorectal cancer or inflammatory bowel disease.
+
+Past Medical History: Hypertension, treated with medication.
+
+Drug History: Hydrochlorothiazide for hypertension
+
+Social History: Recently retired teacher, lives with her husband, non-smoker, occasionally drinks alcohol socially, no recreational drug use.
+
+Allergies: No known drug allergies",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+ca hypopharynx & larynx,"Demographic: Gender: male
+, Age: 57
+
+Chief complaint: symptoms: ['difficulty swallowing', 'unintentional weight loss', 'chronic sore throat for more than 3 weeks', 'persistent hoarseness for more than 3 weeks']
+, duration: over 3 months
+
+History (on Open questioning): info1: The patient complains of a progressive difficulty swallowing which has worsened over the past 3 months.
+, info2: Initially, it was just with solids but now he is having trouble with liquids as well.
+, info3: He reports a significant unintentional weight loss over the last few months.
+, info4: He has had a persistent sore throat that has not improved with over-the-counter remedies.
+, info5: He mentions his voice has been hoarse for several weeks, with no prior history of vocal strain or recent cold.
+
+History (When asked directly): info1: The patient notices a lump in his neck that seems to be getting larger.
+, info2: No recent respiratory infections.
+, info3: Denies smoking tobacco but has a history of significant alcohol consumption.
+, info4: No history of similar symptoms in the family.
+, info5: Admits to experiencing night sweats but no fever.
+
+Family History: No known familial history of cancer.
+
+Past Medical History: Hypertension, managed with medication.
+
+Drug History: Amlodipine for hypertension
+
+Social History: smoking: No current smoking, but a history of alcohol consumption
+, alcohol: Regular alcohol consumption, considered heavy at times.
+, occupation: Worked in a manufacturing plant involving exposure to dust and chemical fumes.
+
+Allergies: No known drug allergies (NKDA)",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+ca lung,"Demographic: Gender: female
+, Age: 64
+
+Chief complaint: Primary: chronic cough
+, Duration: 6 months
+
+History (on Open questioning): info1: The patient complains of a persistent cough that has been worsening over the past 6 months.
+, info2: Initially, the cough was dry, but it has become productive with yellowish sputum over time.
+, info3: She has noticed an unintentional weight loss of about 5 kg over the past 3 months without any changes in diet or exercise.
+, info4: There are occasional episodes of coughing up blood, which has caused her significant concern.
+, info5: She reports no fever or night sweats.
+
+History (When asked directly): info1: The patient has been a smoker for the past 40 years, averaging a pack a day.
+, info2: No recent travels or contact with sick individuals.
+, info3: She denies any recent surgeries or hospitalizations.
+, info4: No history of exposure to asbestos or other known carcinogens.
+, info5: She mentions occasional shortness of breath, especially with exertion.
+, info6: The patient recalls her father having 'lung problems' but is unclear about the details.
+
+Family History: Father had 'lung problems', details unknown. No known family history of cancer.
+
+Past Medical History: Hypertension managed with medication, previous history of tuberculosis in her twenties.
+
+Drug History: Lisinopril for hypertension. No recent new medications.
+
+Social History: Smoking: 40 pack-years
+, Alcohol: Occasional social drinker
+, Occupation: Recently retired school teacher
+
+Allergies: NKDA",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+ca ovary,"Demographic: Gender: female
+, Age: 55
+
+Chief complaint: symptom: abdominal mass and persistent abdominal pain
+, duration: several weeks
+
+History (on Open questioning): info1: The patient reports noticing a swelling in her lower abdomen that has been gradually increasing in size.
+, info2: She describes the pain as a constant, dull ache that occasionally becomes sharp.
+, info3: The pain sometimes radiates to her back.
+, info4: She has also noticed a significant increase in the frequency of urination and feels full quickly after eating small amounts.
+, info5: Reports unintentional weight loss over the past few months.
+
+History (When asked directly): info1: The patient admits to experiencing occasional vaginal bleeding that is not associated with her menstrual cycle.
+, info2: She has also noticed changes in her bowel habits, including constipation.
+, info3: Denies fever or night sweats.
+, info4: Mentions that her sister was diagnosed with breast cancer at the age of 50.
+, info5: Denies recent travel or known exposure to toxins.
+
+Family History: Mother had hypertension. Sister diagnosed with breast cancer.
+
+Past Medical History: Hypothyroidism controlled with medication.
+
+Drug History: Levothyroxine
+
+Social History: Smoking: No
+, Alcohol: Occasional social drinker
+, Recreational drugs: No
+, Occupation: School teacher
+, Marital status: Widowed
+
+Allergies: No known drug allergies",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+epstein-barr viral lymphadenopathy,"Demographic: Gender: female
+, Age: 23
+
+Chief complaint: Symptom: Neck mass
+, Location: Midline of the neck to the front of the ear
+, Number_of_masses: Multiple
+, Associated_symptoms: Sore throat with saliva swallowing
+, Duration: 2 weeks
+
+History (on Open questioning): info1: The patient noticed swelling in her neck about 2 weeks ago, which has been gradually increasing in size.
+, info2: She describes the masses as being painless to touch but has a sore throat that worsens when swallowing saliva.
+, info3: Also experiences general fatigue and has had a mild fever at home.
+, info4: Denies any recent travel history or sick contacts, though mentioned that a roommate was sick with similar symptoms a month ago.
+, info5: No difficulty breathing or changes in voice.
+
+History (When asked directly): info1: The sore throat began a few days before the neck masses were noticed.
+, info2: No history of recent insect bites.
+, info3: No night sweats, weight loss, or severe headaches.
+, info4: Denies difficulty swallowing food, only saliva.
+, info5: Mentions feeling tired more easily with usual activities.
+, info6: Has not taken any medication for these symptoms.
+
+Family History: Non-contributory
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications.
+
+Social History: Smoking status: Non-smoker
+, Alcohol use: Occasional social drinker
+, Drug use: Denies
+, Occupation: University student, currently in exams period",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+non-malignant arrhythmia,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: palpitations
+, description: feeling of heart beating irregularly with occasional rapid beats
+, duration: past few weeks
+
+History (on Open questioning): info1: The patient describes a feeling of her heart 'fluttering' or 'skipping beats' at times.
+, info2: She mentions that these episodes seem to come on suddenly and can last from a few seconds to several minutes.
+, info3: Sometimes she notices these palpitations when she's lying down or sitting quietly.
+, info4: She also reports occasional dizziness and a feeling of light-headedness during these episodes.
+, info5: There is no pain associated with these episodes.
+
+History (When asked directly): info1: The patient notes that during these palpitation episodes, she sometimes feels a pounding in her neck.
+, info2: She has experienced episodes of her heart rate suddenly speeding up.
+, info3: Denies chest pain, shortness of breath, or fainting during these episodes.
+, info4: Denies recent changes in weight, appetite, or sleep.
+, info5: Denies use of caffeine, alcohol, or tobacco.
+, info6: No significant stressors identified that coincide with the onset of symptoms.
+
+Family History: Mother has hypertension. No known family history of heart diseases or sudden cardiac death.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No routine medications. Occasionally takes over-the-counter ibuprofen for headaches.
+
+Social History: Occupation: Graphic designer
+, Lifestyle: Moderate activity level, no regular exercise program
+, Substance Use: Denies smoking and recreational drug use. Occasional social alcohol consumption.",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+metabolic acidosis,"Demographic: Gender: female
+, Age: 63
+
+Chief complaint: symptom: dyspnea
+, duration: over the past week
+
+History (on Open questioning): info1: The patient describes increased difficulty breathing, especially during conversations.
+, info2: Notices she's been using her neck muscles more to help her breathe.
+, info3: Mentions her legs had been swollen for a couple of weeks before the breathing problems started.
+, info4: Reports a decrease in urine output in the same timeframe.
+, info5: Feels generally weak and has trouble performing her daily activities without feeling out of breath.
+
+History (When asked directly): info1: Has experienced episodes of confusion and drowsiness, especially in the evenings.
+, info2: Acknowledges a longstanding history of chronic kidney disease.
+, info3: Says her appetite has decreased, and she's had some nausea without vomiting.
+, info4: States the dyspnea worsens when lying flat.
+, info5: Denies recent travel, cough, fever, or contact with sick individuals.
+, info6: No new medications or changes to her existing prescriptions.
+
+Family History: Mother had hypertension. Father had chronic kidney disease. No family history of diabetes or cardiac diseases.
+
+Past Medical History: Chronic Kidney Disease stage IV, Hypertension
+
+Drug History: Enalapril, Furosemide
+
+Social History: Non-smoker, occasional alcohol. Lives alone, retired teacher.
+
+Allergies: No known drug allergies",3.0,1.0,2.0,dyspnea is emergent,1.0,เปลี่ยนตาม,1.0,1,0.0
+myocardial ischemia,"Demographic: Gender: female
+, Age: 65
+
+Chief complaint: symptom: pain in shoulders, arms and hands, chest tightness
+, duration: on and off for the past 2 weeks
+
+History (on Open questioning): info1: The patient describes a squeezing sensation in her chest, particularly on the left side, which sometimes radiates to her left shoulder, arm, and hand.
+, info2: Mentions that the pain seems to come on when she is walking her dog or carrying groceries.
+, info3: States that resting seems to alleviate the pain after 10 to 15 minutes.
+, info4: The patient also notices that she feels unusually short of breath during these episodes.
+, info5: Denies experiencing this type of pain when she is sitting or lying down.
+
+History (When asked directly): info1: Reports that the pain feels like a tight band around her chest.
+, info2: Acknowledges she has been feeling unusually fatigued lately, even when not physically exerting herself.
+, info3: Has experienced similar, though less intense, pains in the past but attributed them to aging.
+, info4: No nausea or vomiting, but mentions feeling a bit dizzy during some of the episodes.
+, info5: Denies any recent injuries, cough, or fever.
+
+Family History: Mother had a stroke at age 70, father passed away from a heart attack at age 76
+
+Past Medical History: Hypertension, Type 2 Diabetes
+
+Drug History: Amlodipine, Metformin
+
+Social History: Smoking: Quit smoking 10 years ago, previously smoked for 30 years
+, Alcohol: Occasional wine with dinner
+, Exercise: Walks her dog daily, but has reduced distance due to recent symptoms.
+
+Allergies: No known drug allergies",2.0,1.0,1.0,chest pain is emergent,1.0,เปลี่ยนตาม,1.0,1,0.0
+panic attack,"Demographic: Gender: female
+, Age: 29
+
+Chief complaint: symptom: difficulty breathing, insomnia, palpitations, tremors
+, duration: acute episodes over the past month, worsening
+
+History (on Open questioning): info1: The patient reports experiencing sudden episodes of intense fear that appear without warning.
+, info2: During these episodes, she feels an overwhelming sense of dread, as if something terrible is about to happen.
+, info3: She describes a sensation of being unable to catch her breath, 'like I'm suffocating'.
+, info4: She also notes her heart 'races' during these episodes, making her feel even more anxious.
+, info5: Has difficulty falling asleep and staying asleep, 'my mind just won't stop racing at night'.
+
+History (When asked directly): info1: Mentions that her hands tremble and she feels 'weak all over' during these episodes.
+, info2: Episodes last about 10-20 minutes, but the fear of having another attack persists.
+, info3: No specific trigger identified, 'it just happens out of the blue'.
+, info4: Denies use of caffeine or stimulant drugs, which could exacerbate her symptoms.
+, info5: Reports she's been under a lot of stress lately at work, 'feels like I can't handle the pressure'.
+, info6: No history of similar episodes before this started happening.
+, info7: Denies chest pain, fever, cough, or weight loss.
+
+Family History: Mother has a history of anxiety. No known cardiac diseases.
+
+Past Medical History: No chronic illnesses noted.
+
+Drug History: No regular medications. Occasional over-the-counter sleep aids.
+
+Social History: occupation: Software developer
+, lifestyle: High-stress job, limited physical activity
+, alcohol: Rarely
+, smoking: No
+, drug_use: No
+
+Allergies: NKDA",4.0,4.0,0.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+malignant arrhythmia,"Demographic: Gender: female
+, Age: 62
+
+Chief complaint: symptom1: palpitations
+, symptom2: previously swollen legs
+, symptom3: episodes of rapid and irregular heartbeats
+, symptom4: wakes up at night feeling short of breath
+, duration: over the past few months
+
+History (on Open questioning): info1: The patient has been experiencing episodes of her heart racing for the past few months.
+, info2: She notices these episodes more at night and sometimes wakes up short of breath.
+, info3: She also mentions that her legs used to be swollen, but the swelling has decreased.
+, info4: There is no specific trigger she can identify, and sometimes the palpitations resolve with straining as if to perform a bowel movement.
+, info5: She has never experienced this before and finds these episodes very concerning.
+
+History (When asked directly): info1: She reports that these episodes of palpitations can last from a few minutes to more than an hour.
+, info2: The patient admits feeling lightheaded during some of the more intense episodes.
+, info3: She denies chest pain, but says she feels 'uncomfortably aware' of her heartbeat.
+, info4: She has noticed that lying on her left side can sometimes exacerbate the palpitations.
+, info5: The patient also experiences episodes of significant sweating during these palpitations.
+, info6: Family history of sudden death in a sibling, attributed to an unknown heart condition.
+
+Family History: One sibling died suddenly at an early age, suspected heart condition. Parents alive with no major illnesses.
+
+Past Medical History: Hypothyroidism, treated with levothyroxine.
+
+Drug History: Levothyroxine only.
+
+Social History: Non-smoker, occasional alcohol, retired school teacher.
+
+Allergies: No known drug allergies.",3.0,1.0,2.0,palpitation is needed to evaluate emergent,1.0,เปลียนตาม,1.0,1,0.0
+meniere,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptom: dizziness and vomiting
+, description: experiencing episodes of spinning sensation
+, associated_symptoms: hearing loss
+, duration: last 6 months
+
+History (on Open questioning): info1: The patient reports recurrent episodes of severe dizziness, feeling like the room is spinning around her.
+, info2: These episodes are often accompanied by nausea and vomiting.
+, info3: She mentions that these episodes can last from a few minutes to a few hours.
+, info4: She notes a progressive decrease in her ability to hear, especially on one side.
+, info5: The patient also experiences a feeling of fullness or pressure in her ears before the dizziness starts.
+
+History (When asked directly): info1: No recent head injury or illnesses.
+, info2: The dizziness is so severe during episodes that she has to lay down and cannot perform daily activities.
+, info3: She denies any recent travel or sick contacts.
+, info4: No known family history of similar symptoms.
+, info5: She sometimes notices a ringing sound in her ears (tinnitus) during the episodes.
+, info6: Stress and certain head movements seem to trigger the episodes.
+
+Family History: Non-contributory
+
+Past Medical History: Hypothyroidism
+
+Drug History: Levothyroxine
+
+Social History: Occupation: school teacher
+, Smoking: non-smoker
+, Alcohol: occasional social drinker
+, Recreational drugs: none
+
+Allergies: NKDA",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+meningitis,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptom: severe headache and fever
+, duration: 2 days
+
+History (on Open questioning): info1: The patient describes the headache as the worst she has ever experienced.
+, info2: It is a continuous, throbbing pain that started suddenly.
+, info3: She also notes a high fever starting around the same time as the headache.
+, info4: She mentions feeling more tired than usual and having difficulty focusing.
+, info5: She has noticed some sensitivity to light and loud noises.
+
+History (When asked directly): info1: The patient reports stiffness when trying to bend her neck forward.
+, info2: She feels nauseous but has not vomited.
+, info3: No recent travel or sick contacts.
+, info4: Denies any rash or joint pains.
+, info5: No history of similar episodes in the past.
+, info6: She has been taking over-the-counter pain killers, but they haven't helped much.
+
+Family History: Non-contributory
+
+Past Medical History: Generally healthy, no chronic illnesses
+
+Drug History: Occasional ibuprofen for menstrual cramps
+
+Social History: University student, lives in a dormitory. Non-smoker, occasional alcohol consumption.
+
+Allergies: NKDA",2.0,1.0,1.0,headache with redflag,1.0,เปลี่ยนตาม,1.0,1,0.0
+liver cirrhosis,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptoms: ['nausea', 'vomiting', 'vomiting blood']
+, duration: 2 weeks
+
+History (on Open questioning): info1: The patient has been feeling generally unwell for the past month.
+, info2: Reports a significant increase in nausea and episodes of vomiting over the last two weeks.
+, info3: Noticed her skin and eyes turning yellow since last week.
+, info4: The vomiting has occasionally contained what appears to be blood.
+, info5: Has been feeling increasingly weak and tired.
+
+History (When asked directly): info1: Admits to drinking alcohol regularly, approximately 4-5 drinks daily for the past 20 years.
+, info2: Has not been eating well due to lack of appetite.
+, info3: Denies recent travel or consumption of unusual foods.
+, info4: No history of similar symptoms in the family.
+, info5: Denies use of NSAIDs or other medications known to cause gastrointestinal bleeding.
+
+Family History: No known liver diseases. Father has hypertension.
+
+Past Medical History: None previously diagnosed.
+
+Drug History: Occasional paracetamol for headaches. No regular medications.
+
+Social History: Alcohol consumption: Regular, heavy alcohol consumption
+, Smoking: Non-smoker
+, Occupation: Works in a local grocery store
+, Living situation: Lives alone",3.0,1.0,2.0,hematemesis is emergency,1.0,เปลี่ยนตาม,1.0,1,0.0
+lung abscess,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptom: chronic cough, foul-smelling sputum, halitosis, fevers
+, duration: over 3 weeks
+
+History (on Open questioning): info1: The patient reports a persistent cough lasting more than three weeks.
+, info2: She describes the cough as productive, with foul-smelling sputum being a significant concern.
+, info3: Mentions experiencing bad breath which she never had before.
+, info4: She has noticed pain on breathing deeply which localized to the chest.
+, info5: Reports unexplained nocturnal fevers, sweating more at night compared to during the day.
+, info6: Has a sense of overall weakness and malaise.
+
+History (When asked directly): info1: She has lost a few kilograms over the past month without trying.
+, info2: No recent travel or exposure to known tuberculosis.
+, info3: Denies any recent contact with sick individuals or animals.
+, info4: No history of blood in the sputum.
+, info5: Noticed that lying down on one side makes the pain and coughing worse.
+, info6: No prior history of similar symptoms.
+, info7: Acknowledges a history of smoking, but quit a year ago.
+
+Family History: No known family history of tuberculosis or lung diseases.
+
+Past Medical History: No significant past medical history.
+
+Drug History: Occasionally uses over-the-counter pain relievers for headaches.
+
+Social History: occupation: High school teacher
+, smoking: Former smoker, quit 1 year ago
+, alcohol: Occasional social drinker, denies heavy use
+, drug use: Denies illegal drug use
+
+Allergies: No known drug allergies.",3.0,2.0,1.0,,3.0,both are valid,3.0,3,0.0
+liver abscess,"Demographic: Gender: female
+, Age: 45
+
+Chief complaint: symptoms: ['abdominal distention', 'acute right upper abdominal pain', 'nausea and vomiting', 'weight loss', 'fever', 'fatigue']
+, duration: 2 weeks
+
+History (on Open questioning): info1: The patient has been experiencing a progressive increase in abdominal size and discomfort over the past two weeks.
+, info2: She reports a sharp and constant pain in the right upper quadrant of her abdomen.
+, info3: She has noticed a significant decrease in her appetite accompanied by unintentional weight loss.
+, info4: There have been episodes of nausea followed by vomiting, which do not seem to relieve her abdominal pain.
+, info5: She also mentions feeling generally unwell, with bouts of severe fatigue.
+
+History (When asked directly): info1: The pain intensifies with movement and deep breaths.
+, info2: There is a recent history of diarrhea but no blood in the stool.
+, info3: No recent travel or known sick contacts.
+, info4: She denies any chest pain, cough, or dysuria.
+, info5: Her menstrual cycle has been normal.
+, info6: She has not taken any pain medication or antibiotics recently.
+
+Family History: Non-contributory
+
+Past Medical History: Hypothyroidism
+
+Drug History: info1: Levothyroxine daily for hypothyroidism
+, info2: No recent use of NSAIDs or antibiotics
+
+Social History: info1: Non-smoker
+, info2: Occasional alcohol use
+, info3: Works as an accountant, leading a sedentary lifestyle
+, info4: No substance abuse
+
+Allergies: No known drug allergies",3.0,2.0,1.0,,3.0,both are valid,3.0,3,0.0
+lung cancer,"Demographic: Gender: female
+, Age: 62
+
+Chief complaint: symptom1: progressive dyspnea
+, symptom2: unintentional weight loss
+, symptom3: chronic dry cough
+, duration: over the last 6 months
+
+History (on Open questioning): info1: The patient has been experiencing a gradually worsening shortness of breath for the past 6 months.
+, info2: She initially attributed the dyspnea to aging and her smoking habit, but recently it has escalated to the point where it interferes with her daily activities.
+, info3: She has also noticed a significant weight loss during this period without any changes in diet or exercise.
+, info4: The patient mentions a persistent dry cough that has lasted more than 2 weeks.
+, info5: There has been no fever, night sweats, or significant chest pain.
+
+History (When asked directly): info1: The dyspnea is worse when lying down and with exertion.
+, info2: She denies any recent travel or exposure to TB.
+, info3: Her appetite has decreased over the last few months.
+, info4: She has been a smoker for 45 years, averaging one pack a day.
+, info5: She has had some episodes of coughing up small amounts of blood in her sputum recently.
+, info6: No history of similar symptoms in the family.
+
+Family History: Mother died of a stroke. Father had chronic obstructive pulmonary disease (COPD).
+
+Past Medical History: Hypertension diagnosed 8 years ago
+
+Drug History: Amlodipine for hypertension
+
+Social History: smoking_status: 1 pack/day for 45 years
+, alcohol: occasional social drinker
+, occupation: retired teacher
+
+Allergies: NKDA",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+hypoglycemia,"Demographic: Gender: female
+, Age: 63
+
+Chief complaint: Symptoms: ['Palpitations', 'Hand tremors', 'Sweating']
+, Duration: 2 hours ago
+
+History (on Open questioning): info1: The patient felt suddenly unwell while gardening.
+, info2: Describes feeling 'like my heart was racing out of my chest'.
+, info3: Noticed her hands were trembling and felt unusually sweaty.
+, info4: Hadn't eaten since breakfast, about 6 hours ago.
+, info5: No chest pain, shortness of breath, or dizziness.
+
+History (When asked directly): info1: Reports no change in her usual daily medication regimen.
+, info2: Confirms she has had similar but less severe episodes in the past.
+, info3: Usually after skipping meals.
+, info4: Denies intake of any new medications or supplements.
+, info5: No recent increase in physical activity.
+
+Family History: No known family history of diabetes. Mother had hypertension.
+
+Past Medical History: Type 2 Diabetes Mellitus diagnosed 8 years ago.
+
+Drug History: Takes Metformin and occasionally a Sulfonylurea when she remembers.
+
+Social History: Smoking: Never smoked
+, Alcohol: Occasional, socially
+, Diet: Regular Thai cuisine, admits to sometimes skipping meals due to a busy schedule",2.0,1.0,1.0,DDx hypoglycemia--> emer,1.0,เปลี่ยนตาม,1.0,1,0.0
+infective endocarditis,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: Symptoms: ['Dyspnea', 'Chest pain', 'Fever >2 weeks', 'Swollen legs', 'Decreased urine output']
+, Duration: past 1 month
+
+History (on Open questioning): info1: The patient has been experiencing difficulty in breathing, especially when lying flat, progressively worsening over the last month.
+, info2: She reports a sensation of tightness in the chest occasionally, but it's the shortness of breath that worries her most.
+, info3: Notices her legs have been swollen for the past couple of weeks.
+, info4: Comments on decreased urine output despite drinking what she believes to be a normal amount of water.
+, info5: Mentions a persistent fever that started gently but has been constant for over two weeks now.
+
+History (When asked directly): info1: Admits to previous intravenous drug use, including sharing needles 'a few times in the past'.
+, info2: Reports a history of 'heart murmurs' but never followed up because of lack of insurance.
+, info3: Denies any coughing or recent travel.
+, info4: Cannot recall the last time she felt completely well.
+, info5: Mentions occasional night sweats over the past few weeks.
+, info6: Notes weight loss but hasn't been tracking her weight.
+
+Family History: Unknown due to being estranged from family.
+
+Past Medical History: Unkown, patient has not sought medical care in years.
+
+Drug History: No prescribed medications. Occasionally uses over-the-counter pain relievers.
+
+Social History: Drug Use: History of intravenous drug use, specifically mentions heroin.
+, Smoking: Smokes tobacco, half a pack a day.
+, Alcohol: Occasional alcohol consumption.",3.0,1.0,2.0,chest pain + dyspnea is emergency,1.0,เปลี่ยนตาม,1.0,1,0.0
+intermittent bowel obstruction,"Demographic: Gender: female
+, Age: 43
+
+Chief complaint: symptoms: ['nausea and vomiting', 'abdominal bloating', 'generalized abdominal pain', 'abdominal pain awakening her from sleep']
+, duration: last 24 hours
+
+History (on Open questioning): info1: The patient describes sudden onset of abdominal pain, describing the pain as crampy and generalized.
+, info2: She reports that the pain is severe enough to wake her from sleep.
+, info3: She also notes episodes of nausea and has vomited twice in the past day.
+, info4: The patient mentions feeling bloated and unable to pass gas.
+, info5: Reports intermittent similar episodes in the past but never this severe.
+
+History (When asked directly): info1: Denies any relation to food intake.
+, info2: Mentions that during episodes, diarrhea sometimes follows the initial phase of pain.
+, info3: No recent changes in diet or new medications.
+, info4: Denies fever or chills.
+, info5: No known contact with sick individuals.
+, info6: Denies recent travel.
+, info7: Admits to decreased bowel movements prior to this episode.
+
+Family History: Mother had 'stomach issues' but never diagnosed. No history of bowel diseases in the family.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications. Occasionally takes ibuprofen for headaches.
+
+Social History: Non-smoker, occasional alcohol use, denies recreational drug use.
+
+Allergies: No known drug allergies.",2.0,1.0,1.0,acute abdominal pain,1.0,เปลี่ยนตาม,1.0,1,0.0
+knee sprain,"Demographic: Gender: female
+, Age: 28
+
+Chief complaint: symptom: knee pain
+, context: after playing sports, experiencing a collision, activities requiring extensive walking, or heavy lifting
+
+History (on Open questioning): info1: The patient describes the pain started after a particularly active day involving a lot of walking.
+, info2: She mentions playing badminton earlier that day and possibly twisting her knee during a match.
+, info3: Describes the pain as sharp when trying to bend the knee or when applying weight on it.
+, info4: Notices swelling around the knee that seems to worsen by the end of the day.
+, info5: She has tried resting and applying ice which provides temporary relief.
+
+History (When asked directly): info1: The pain is localized around the anterior part of the knee and worsens when climbing stairs or after sitting for long periods.
+, info2: Denies hearing a 'pop' sound at the time of injury but felt immediate pain afterwards.
+, info3: No previous history of knee problems.
+, info4: Denies using any over-the-counter medication for pain.
+, info5: No recent fever, weight loss, or other joint pain.
+
+Family History: No known family history of arthritis or musculoskeletal diseases.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications. Occasionally takes ibuprofen for headaches.
+
+Social History: lifestyle: Active, plays badminton weekly. Non-smoker.
+, occupation: Graphic designer, occasionally works long hours sitting.
+
+Allergies: No known drug allergies.",4.0,4.0,0.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+hyperthyroid,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: weight loss, tremors, excessive sweating
+, duration: last 6 months
+
+History (on Open questioning): info1: The patient reports having lost over 3 kilograms in the past six months without any changes in diet or exercise.
+, info2: She notices that she feels 'hot' all the time and sweats more than usual even in air-conditioned rooms.
+, info3: Her hands tremble slightly, especially when she tries to hold something steady.
+, info4: She has also been feeling 'heart racing' occasionally.
+, info5: Mentions that she has been feeling more anxious and irritable lately.
+
+History (When asked directly): info1: The patient reports frequent bowel movements, more than usual, and sometimes she feels urgent to go.
+, info2: She denies any blood or mucus in her stool.
+, info3: She has not been on any new medications, foods, or supplements.
+, info4: Denies recent travel.
+, info5: No significant change in her water intake, but she mentions feeling thirsty more often.
+, info6: Her periods have become somewhat irregular and lighter than usual.
+
+Family History: No known family history of thyroid disease. Mother has hypertension.
+
+Past Medical History: No known past medical issues.
+
+Drug History: No current medications.
+
+Social History: Non-smoker, occasional alcohol intake, works as a graphic designer, exercises regularly.
+
+Allergies: No known drug allergies.",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+hernia,"Demographic: Gender: male
+, Age: 35
+
+Chief complaint: symptom: acute non-localizing abdominal pain, worsens with coughing, sneezing, straining, or lifting heavy objects
+, duration: 2 weeks
+
+History (on Open questioning): info1: The patient describes a sharp pain in the groin area that has been worsening over the last two weeks.
+, info2: He first noticed a small bump in the groin area that has been gradually increasing in size.
+, info3: The pain becomes more intense with physical activities, especially when lifting heavy weights at his job.
+
+History (When asked directly): info1: The pain does not radiate and is localized to the groin area.
+, info2: He has not experienced any nausea or vomiting.
+, info3: No changes in bowel movements or urinary habits.
+, info4: Denies any fever, night sweats, or significant weight loss.
+, info5: Admits that the bulge in the groin appears to reduce in size when lying down or when gently pressing on it.
+
+Family History: His father had surgery for a similar condition years ago, but the patient does not recall the details.
+
+Past Medical History: No significant past medical history.
+
+Drug History: Occasional ibuprofen for pain, no regular medications.
+
+Social History: Works as a construction worker. Smokes half a pack of cigarettes a day for the past 10 years. Drinks alcohol socially, no recreational drug use.",3.0,4.0,1.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+hernia umbilical or surgical site,"Demographic: Gender: female
+, Age: 34
+
+Chief complaint: symptom: abdominal mass
+, duration: 2 weeks
+, location: umbilical area
+, previous_surgery: yes, cesarean section 1 year ago
+
+History (on Open questioning): description: The patient has noticed a lump in her lower abdomen for the past two weeks.
+, changes_with_position: The size seems to increase with standing and coughing.
+, discomfort_level: There's a mild discomfort but no severe pain.
+, additional_symptoms: No nausea, vomiting, or changes in bowel movements.
+
+History (When asked directly): reducibility: The lump cannot be pushed back in.
+, texture: The lump has a smooth surface.
+, previous_notices: Noticed the lump appears in the area of her previous surgical scar from a cesarean section.
+, effort_impact: Efforts like coughing or lifting heavy weights seem to exacerbate the lump's prominence.
+
+Family History: No known hereditary diseases.
+
+Past Medical History: Cesarean section 1 year ago, no complications post-surgery.
+
+Drug History: No regular medications.
+
+Social History: smoking: non-smoker
+, alcohol: social drinker
+, drug_use: none
+
+Allergies: NKDA",2.0,4.0,2.0,can wait,4.0,triage ใหม่เป็น 4,4.0,4,0.0
+herniated disc & traumatic spine fracture,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: back pain with leg weakness and difficulty walking
+, duration: within the past week
+
+History (on Open questioning): info1: The patient reports experiencing significant back pain that has progressively worsened over the last few days.
+, info2: The pain is concentrated around the lower back area.
+, info3: She notes that the pain exacerbates when she moves, especially when trying to stand up from a seated position or when bending over.
+, info4: She also describes a feeling of weakness in her legs, making it difficult to walk or stand for periods.
+, info5: The patient denies any recent fever, chills, or unexplained weight loss.
+
+History (When asked directly): info1: Upon further questioning, she recalls a specific incident where she lifted a heavy object at work which resulted in immediate back pain.
+, info2: She mentions that there was an accident involving a fall that targeted her back a few weeks ago, but initially, didn't seek medical attention as the pain was tolerable then.
+, info3: No bowel or bladder incontinence is reported.
+, info4: She denies any previous similar episodes or history of chronic back issues.
+, info5: Denies recent travels, surgeries, or infectious contacts.
+
+Family History: Non-contributory
+
+Past Medical History: No known chronic conditions
+
+Drug History: Only over-the-counter pain relievers with minimal relief.
+
+Social History: Occupation: Warehouse worker
+, Lifestyle: Lives alone, occasionally drinks alcohol socially, denies smoking or recreational drug use.
+, Activity level: Previously active but now limited due to pain.
+
+Allergies: No known drug allergies.",3.0,1.0,2.0,neuro disability will be permanent if delay mx,1.0,ควรได้รับการ PE เพิ่มเติม,1.0,1,0.0
+meralgia paresthetica,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: pain and burning sensation on the outer side of the thigh
+, duration: 3 weeks
+
+History (on Open questioning): info1: The patient complains of a persistent painful and burning sensation on the outer aspect of her right thigh.
+, info2: Describes the pain as 'feeling like a hot iron' on her skin.
+, info3: Notices the pain is worse when standing or walking for long periods.
+, info4: Feels some relief when sitting down or lying on her back.
+, info5: No recent injury or change in activity level.
+
+History (When asked directly): info1: Denies back pain or any radiating pain from the back to the thigh.
+, info2: No weakness in the legs or difficulty walking.
+, info3: Hasn't noticed any changes in the skin or hair growth on the affected area.
+, info4: Admits to wearing tight garments regularly.
+, info5: Mentions she has been trying to lose weight, currently on a diet.
+
+Family History: No known family history of neurological or musculoskeletal diseases.
+
+Past Medical History: Obesity
+
+Drug History: No regular medications.
+
+Social History: info1: Works as an office manager, mostly sitting but occasionally needs to stand for prolonged periods.
+, info2: Non-smoker
+, info3: Occasional alcohol, socially
+, info4: No recreational drug use
+
+Allergies: No known drug allergies.",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+pericarditis,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom1: acute chest pain
+, symptom2: abdominal pain, acute left upper epigastric pain
+, symptom3: palpitations
+
+History (on Open questioning): info1: The patient describes a sharp, stabbing chest pain that worsens when lying down and improves when leaning forward.
+, info2: She mentions recent flu-like symptoms about two weeks ago, including a low-grade fever, cough, and general malaise.
+, info3: She also reports a sharp pain in the left upper part of her abdomen.
+, info4: Palpitations have been intermittent, with no clear trigger.
+, info5: Describes the pain as 'squeezing' around the heart, with episodes lasting for a few minutes to hours.
+
+History (When asked directly): info1: No history of similar symptoms in the past.
+, info2: Denies vomiting or diarrhea, but admits to feeling nauseated.
+, info3: No recent travel or unusual dietary intake.
+, info4: She has not measured her temperature but feels warm and has noticed sweating more than usual.
+, info5: Has been taking over-the-counter NSAIDs for the pain, with minimal relief.
+
+Family History: Non-contributory
+
+Past Medical History: No significant past medical history.
+
+Drug History: Occasional NSAIDs for menstrual cramps.
+
+Social History: smoking: non-smoker
+, alcohol: social drinker, about one glass of wine per week
+, recreational drugs: none",2.0,1.0,1.0,chest pain,1.0,เปลี่ยนตาม,1.0,1,0.0
+reactive arthritis,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: Primary: foot pain
+, Secondary: ['wrist pain', 'finger joint pain', 'elbow pain', 'shoulder pain']
+, Duration: More than a week but less than 3 months
+, Additional_symptom: fever
+
+History (on Open questioning): info1: The patient reports experiencing pain and swelling in her feet, which makes it difficult to walk.
+, info2: She also mentions pain in her wrists, finger joints, elbows, and shoulders.
+, info3: She recently developed a low-grade fever.
+, info4: The symptoms seemed to have started a few weeks ago and have gradually worsened.
+, info5: Denies any recent injuries but recalls having a severe bout of diarrhea a month ago.
+
+History (When asked directly): info1: Pain is worse in the morning and tends to improve slightly throughout the day.
+, info2: No history of psoriasis or inflammatory bowel disease.
+, info3: Denies any recent travel.
+, info4: Has not taken any over-the-counter or prescription medications for the symptoms.
+, info5: Mentions that the diarrhea episode preceding the onset of these symptoms was severe and lasted for several days.
+
+Family History: Mother has rheumatoid arthritis. No other significant family medical history.
+
+Past Medical History: No chronic illnesses. History of episodic migraines.
+
+Drug History: Occasional ibuprofen for migraines.
+
+Social History: Non-smoker, occasional alcohol consumption, works as a graphic designer.
+
+Allergies: No known drug allergies.",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+renal calculi,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: acute abdominal pain
+, character: sharp, colicky pain in the left suprapubic region and right lower quadrant
+, associated_symptom: dysuria
+
+History (on Open questioning): info1: The patient describes a sudden onset of sharp, colicky pain that started early in the morning.
+, info2: The pain is localized to the left suprapubic area and right lower quadrant of the abdomen.
+, info3: Mentions the pain comes and goes in waves.
+, info4: There's relief when sitting still and in certain positions.
+, info5: The patient also experiences a burning sensation when urinating.
+
+History (When asked directly): info1: Denies fever or chills.
+, info2: No recent changes in diet or unusual food intake.
+, info3: She also notes a slightly reduced urine output.
+, info4: Mentions occasional nausea but no vomiting.
+, info5: Denies any recent history of similar pain.
+, info6: No significant previous surgeries or hospital admissions.
+
+Family History: No known family history of kidney diseases or stones.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications.
+
+Social History: Smoking: Non-smoker.
+, Alcohol: Occasional social drinks.
+, Recreational drugs: None.
+
+Allergies: No known drug allergies.",4.0,1.0,3.0,acute abdomen is emergency condition,1.0,เปลี่ยนใหม่เนื่องจากควรได้รับการตรวจร่างกาย และส่งตรวจ investigation เพิ่มเติม,1.0,1,0.0
+septic arthritis,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptoms: ['buttock, hip & thigh pain', 'night pain requiring painkillers to sleep', 'loss of appetite', 'fever']
+, duration: 1 week
+
+History (on Open questioning): info1: The patient comes in with a complaint of persistent pain in the buttock, hip, and thigh region.
+, info2: The pain has grown progressively worse over the past week.
+, info3: She reports the pain worsens at night to the point where she needs to take pain medication to sleep.
+, info4: She has also noticed a decrease in her appetite over the same period.
+, info5: The patient mentions feeling feverish the last few days.
+
+History (When asked directly): info1: The pain is localized to the right hip and does not radiate.
+, info2: Denies any recent injury or falls.
+, info3: No recent travel or sick contacts.
+, info4: She admits to some weight loss, which she attributes to her decreased appetite.
+, info5: Has noticed some redness and warmth over the right hip.
+, info6: Denies any previous similar episodes.
+, info7: Admits to being more tired than usual.
+
+Family History: Non-contributory.
+
+Past Medical History: Healthy with no chronic medical conditions.
+
+Drug History: Occasional over-the-counter ibuprofen for pain.
+
+Social History: Occupation: Office worker
+, Lifestyle: Sedentary lifestyle, non-smoker, occasional alcohol.
+
+Allergies: No known drug allergies.",3.0,2.0,1.0,,2.0,เปลี่ยนตาม,2.0,2,0.0
+pyelonephritis,"Demographic: Gender: female
+, Age: 32
+
+Chief complaint: symptoms: ['Abdominal pain (acute left, suprapubic & right lower pain)', 'Nausea', 'Vomiting', 'Intermittent cramping pain', 'Radiating pain to the back', 'Dysuria', 'Fever']
+, duration: 2 days
+
+History (on Open questioning): info1: The patient complains of a sharp, cramping pain in the left side of her abdomen that sometimes moves to her lower right abdomen and suprapubic area.
+, info2: She mentions the pain occasionally radiates to her back, describing it as severe and sharp.
+, info3: She has experienced bouts of nausea and has vomited a couple of times.
+, info4: Reports having a fever at home, without measuring it.
+, info5: Mentions that urinating has become painful, describing a burning sensation.
+
+History (When asked directly): info1: The abdominal pain worsens before and after urination.
+, info2: Denies any recent sexual activity or change in sexual partners.
+, info3: No recent history of similar symptoms.
+, info4: Denies recent travel or consuming unusual foods.
+, info5: Last menstrual period was 2 weeks ago, normal flow.
+, info6: Stresses that the pain and fever have made it difficult to perform daily tasks.
+
+Family History: No known family history of kidney disease. Mother has hypertension.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications. Occasionally takes ibuprofen for headaches.
+
+Social History: Smoking: Non-smoker
+, Alcohol: Drinks socially, once a month. No recent alcohol intake.
+, Recreational drugs: Denies use
+
+Allergies: No known drug allergies.",3.0,2.0,1.0,,2.0,เปลี่ยนตาม,2.0,2,0.0
+stable angina,"Demographic: Gender: Male
+, Age: 58
+, Ethnicity: Thai
+
+Chief complaint: Description: Chest pain
+, Characteristics: Tightness, like being squeezed by something heavy
+, Duration: Less than 15-20 minutes
+, Relief: Pain diminishes after taking sublingual medication
+
+History (on Open questioning): Onset: Noticed the pain during physical activities over the past few months
+, Frequency: Occurs sporadically, especially with physical exertion or stress
+, Location: Central chest, no radiation
+, Associated symptoms: None reported initially
+
+History (When asked directly): Food relation: Pain is not related to food intake
+, Previous episodes: Similar episodes before, always relieved by rest or medication
+, Other symptoms: Denies associated nausea, vomiting, or dizziness
+, Medication Response: Noticed relief upon taking nitroglycerin sublingually
+
+Family History: Cardiovascular diseases: Father had a history of myocardial infarction at the age of 62
+
+Past Medical History: Conditions: Hypertension, controlled with medication
+
+Drug History: Medications: Amlodipine 5mg daily
+, Allergies: No known drug allergies
+
+Social History: Smoking: Smokes half a pack of cigarettes daily for the last 30 years
+, Alcohol: Occasional social drinker, 1-2 drinks per week
+, Exercise: Minimal physical activity, mainly sedentary lifestyle",4.0,1.0,3.0,chest pain is emergency condition,1.0,เปลี่ยนใหม่เนื่องจากควรได้รับการตรวจร่างกาย และส่งตรวจ investigation เพิ่มเติม,1.0,1,0.0
+thoracic outlet syndrome,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom1: Neck pain
+, symptom2: weakness in grip
+, symptom3: numbness in the palm and little finger
+, duration: more than 3 months
+
+History (on Open questioning): info1: The patient has been experiencing an aching pain in her neck extending to the shoulder for several months.
+, info2: She mentions the pain sometimes shoots down to her arm.
+, info3: Notes weakness in her hand grip, making it difficult to hold objects.
+, info4: Reports numbness in her palm and particularly her little finger, describing it as pins and needles.
+, info5: Mentions that her symptoms seem to worsen with certain neck movements or when carrying heavy bags.
+
+History (When asked directly): info1: Symptoms are not relieved by common pain medications or rest.
+, info2: No recent injuries or accidents.
+, info3: She works as a graphic designer and spends many hours in front of a computer.
+, info4: Denies any history of similar symptoms in the past.
+, info5: No noticeable swelling or color changes in her hands.
+, info6: No fever, weight loss, or other systemic symptoms.
+
+Family History: No known family history of neurological or musculoskeletal disorders.
+
+Past Medical History: No significant medical history.
+
+Drug History: Occasional use of over-the-counter NSAIDs, with minimal relief.
+
+Social History: occupation: graphic designer
+, smoking_status: non-smoker
+, alcohol_consumption: occasional social drinker
+, exercise: irregular, mainly sedentary lifestyle due to work demands",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+tension headache,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: Symptom: headache
+, Duration: 6 months
+
+History (on Open questioning): Info1: The patient reports experiencing headaches for the past six months.
+, Info2: Describes the pain as a constant pressure, almost like a band squeezing around her head.
+, Info3: Says the headaches occur mostly in the late afternoon or after a long day at work.
+, Info4: Mentions that the intensity of the headaches is usually moderate, but they can last for several hours.
+, Info5: Notes that there is no particular trigger she can identify, but stress seems to make it worse.
+
+History (When asked directly): Info1: Denies any nausea or vomiting associated with the headaches.
+, Info2: No visual disturbances or sensitivity to light and sound.
+, Info3: Reports that over-the-counter pain relievers like paracetamol provide some relief.
+, Info4: Does not recall any recent head injury or accident.
+, Info5: Acknowledges a busy and stressful period at work, with long hours spent in front of the computer.
+, Info6: Sleep has been less restorative recently, often feeling tired upon waking.
+
+Family History: Mother suffers from migraines.
+
+Past Medical History: No significant medical history.
+
+Drug History: Occasional use of paracetamol for headaches. No regular medications.
+
+Social History: Occupational: Accountant
+, Lifestyle: Limited physical activity, mainly sedentary due to workload. Non-smoker. Occasional alcohol, mainly social drinking on weekends.
+
+Allergies: NKDA",4.0,4.0,0.0,,4.0,เปลี่ยนตาม,4.0,4,0.0
+urolithiasis,"Demographic: Gender: male
+, Age: 35
+
+Chief complaint: symptom: difficulty urinating, lower abdominal pain, bloody urine, stones in urine
+, duration: past week
+
+History (on Open questioning): info1: The patient has been experiencing difficulty in initiating urination, which requires straining.
+, info2: He describes a dull, aching pain in the lower abdomen.
+, info3: Noticed blood in his urine two days ago, which alarmed him.
+, info4: Reports that small stones were visible in his urine.
+
+History (When asked directly): info1: The pain sometimes radiates to the groin area.
+, info2: Admits to having episodes of nausea but no vomiting.
+, info3: Denies any recent fever or chills, suggesting no immediate signs of infection.
+, info4: Mentioned that he has been consuming less water than usual due to a busy schedule.
+, info5: He has not experienced any similar incidents in the past.
+
+Family History: No known family history of kidney stones or renal diseases.
+
+Past Medical History: No significant past medical history.
+
+Drug History: No regular medications. Occasionally takes ibuprofen for headaches.
+
+Social History: occupation: Software developer
+, lifestyle: sedentary lifestyle with minimal physical activity
+, diet: diet high in sodium, consumes minimal water during the day
+
+Allergies: None reported",4.0,3.0,1.0,,3.0,เปลี่ยนตาม,3.0,3,0.0
+ulcerative colitis,"Demographic: Gender: female
+, Age: 35
+
+Chief complaint: symptom: chronic diarrhea and bloody stools
+, duration: 6 months
+
+History (on Open questioning): info1: The patient describes having frequent bowel movements for the past 6 months, with up to 6-7 times per day on some days.
+, info2: She noticed blood mixed with the stool on several occasions.
+, info3: Mentions a constant, crampy abdominal pain that gets slightly better after defecation.
+, info4: Reports episodes of low-grade fever, especially during the night.
+, info5: Has noticed unintentional weight loss over the last few months.
+
+History (When asked directly): info1: Reveals experiencing occasional joint pain, particularly in the knees and elbows, without any visible swelling or redness.
+, info2: Mentions recent onset of eye redness and irritation, diagnosed as episcleritis by an ophthalmologist.
+, info3: No recent travel history.
+, info4: Denies any family history of inflammatory bowel disease.
+, info5: States menstrual cycle has remained regular.
+, info6: No usage of NSAIDs or antibiotic medications recently.
+
+Family History: Non-contributory, with no known history of gastrointestinal diseases.
+
+Past Medical History: No significant past medical history.
+
+Drug History: Occasional use of over-the-counter antidiarrheal medications with no significant improvement.
+
+Social History: info1: Non-smoker
+, info2: Occasional alcohol use, socially
+, info3: Works as a graphic designer
+, info4: Recently experiencing stress related to work deadlines
+
+Allergies: No known drug allergies.",3.0,4.0,1.0,,3.0,both are valid,3.0,3,0.0
+urethral stenosis,"Demographic: Gender: Male
+, Age: 38
+
+Chief complaint: symptom: Difficulty urinating
+, duration: 3 months
+
+History (on Open questioning): info1: The patient has been experiencing increased difficulty initiating urination.
+, info2: Notices a significantly weaker stream than previously.
+, info3: Mentions that urination often feels incomplete.
+, info4: The patient reports occasional discomfort towards the end of urination.
+, info5: He also mentions that these symptoms have been gradually worsening over the last few months.
+
+History (When asked directly): info1: Denies any recent back injuries or trauma to the genital area.
+, info2: No history of sexually transmitted infections.
+, info3: No noticeable blood in the urine or significant changes in urine color.
+, info4: Denies fever, chills, or other signs of infection.
+, info5: No significant changes in urinary frequency or urgency, except when trying to initiate.
+, info6: Patient states that straining to urinate does sometimes provide slight relief but is not effective in fully alleviating the issue.
+
+Family History: No known family history of similar symptoms or significant urological disease.
+
+Past Medical History: History of mild asthma, controlled with an inhaler as needed.
+
+Drug History: Uses albuterol inhaler, occasional ibuprofen for headaches. No regular medications.
+
+Social History: Smoking: Non-smoker
+, Alcohol: Social drinker, one to two drinks on weekends only
+, Recreational drugs: Denies use
+, Occupation: Software developer, describes job as 'mostly sedentary'
+
+Allergies: No known drug allergies",4.0,3.0,1.0,,4.0,คิดว่ารอตรวจกับ urologist ตามคิวปกติได้ triage 4,4.0,4,0.0
+,,,,,,,,,96,

@@ -1,0 +1,37 @@
+intermediate_triage,4_level_triage
+wait and watch,routine appointment/self care
+seek emergency care,emergency
+doctor routine appointment,routine appointment/self care
+Call ambulance,emergency
+seek specialist (endocrinologist),routine appointment/self care
+primary care doctor within 2 weeks,routine appointment/self care
+visit doctor in the next 3 days,1 week
+routine medical appointment,routine appointment/self care
+virtual consult a doctor,1 week
+emergency medical care,emergency
+primary care doctor within 1-2 days,1 week
+seek medical advice,1 day
+seek medical advice (3 days),1 week
+seek specialist (gynecologist),routine appointment/self care
+seek specialist (rheumatologist),routine appointment/self care
+manage at home,routine appointment/self care
+emergency medical services,emergency
+emergency medical service,emergency
+seek medical advice within the next few hours,emergency
+seek specialist,routine appointment/self care
+in-person visit today,1 day
+telephone consultation,1 week
+seek medical advice (1 day),1 day
+urgent medical service,emergency
+seek medical advice (6 hours),emergency
+call ambulance,emergency
+routine doctor appointment,routine appointment/self care
+seek specialist (cardiologist),routine appointment/self care
+seek medical advice (2-3 days),1 week
+seek specialist (infectious disease),routine appointment/self care
+seek specialist (psychiatrist),routine appointment/self care
+urgent medical care,emergency
+seek medical advice (1 week),1 week
+seek specialist (gastroenterologist),routine appointment/self care
+self care,routine appointment/self care
+pharmacist,routine appointment/self care

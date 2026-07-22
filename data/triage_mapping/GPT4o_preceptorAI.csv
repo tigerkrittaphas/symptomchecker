@@ -1,0 +1,19 @@
+original_triage,intermediate_triage
+orange,urgent medical service
+กลุ่มอาการสีส้ม,urgent medical service
+พบแพทย์โดยเร็วที่สุด,emergency medical services
+กลุ่มอาการสีเหลือง,seek medical advice (1 day)
+สังเกตอาการหรือปรึกษาแพทย์,routine doctor appointment
+พบแพทย์ภายในวันนี้,seek medical advice (1 day)
+พบแพทย์โดยเร็วที่สุด ไม่แนะนำให้ขับขี่ยานพาหนะด้วยตนเอง,emergency medical services
+ต้องเข้ารับการรักษาพยาบาลโดยเร่งด่วน โทรเรียกรถพยาบาลพร้อมอุปกรณ์ช่วยชีวิตทันที,call ambulance
+ปรึกษาอาการกับเภสัชกรเพื่อรับยาบรรเทาอาการป่วย 
+หรือพิจารณาไปพบแพทย์ภายในสองถึงสามวันข้างหน้า หากอาการแย่ลงแนะนำให้พบแพทย์ทันที,pharmacist
+ต้องเข้าพบแพทย์ทันที,emergency medical services
+red,emergency medical services
+yellow,seek medical advice (1 day)
+กลุ่มอาการสีแดง,emergency medical services
+แนะนำให้พบแพทย์ภายในวันนี้ทันที หากอาการส่งผลต่อสมรรถภาพในการขับขี่ ให้หลีกเลี่ยงการขับขี่ยานพาหนะด้วยตนเอง,seek medical advice (1 day)
+green,routine doctor appointment
+กลุ่มอาการสีเขียว,routine doctor appointment
+ต้องพบแพทย์ทันที,emergency medical services
